@@ -16,7 +16,7 @@ class DesaAcehSeeder extends Seeder
     public function run()
     {
         DB::table('kelurahans')->insert([
-            //            Aceh Selatan
+            // Aceh Selatan
             // Bakongan
             ['kecamatan_id' => '110101', 'id' => '1101012002', 'desa' => 'Ujong Mangki'],
             ['kecamatan_id' => '110101', 'id' => '1101012001', 'desa' => 'Keude Bakongan'],
@@ -694,8 +694,8 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110216', 'id' => '1102162022', 'desa' => 'Kompas'],
             ['kecamatan_id' => '110216', 'id' => '1102162007', 'desa' => 'Bukit Meriah'],
             ['kecamatan_id' => '110216', 'id' => '1102162008', 'desa' => 'Permata Musara'],
-            //            Aceh Timur
-            //            Darul Aman
+            // Aceh Timur
+            // Darul Aman
             ['kecamatan_id' => '110301', 'id' => '1103012001', 'desa' => 'Alue Luddin Sa'],
             ['kecamatan_id' => '110301', 'id' => '1103012002', 'desa' => 'Alue Luddin Dua'],
             ['kecamatan_id' => '110301', 'id' => '1103012003', 'desa' => 'Alue Dalam'],
@@ -741,7 +741,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110301', 'id' => '1103012044', 'desa' => 'Keumuneng Peut'],
             ['kecamatan_id' => '110301', 'id' => '1103012045', 'desa' => 'Keumuneng Limong'],
             ['kecamatan_id' => '110301', 'id' => '1103012046', 'desa' => 'Meunasah Blang'],
-            //            Julok
+            // Julok
             ['kecamatan_id' => '110302', 'id' => '1103022001', 'desa' => 'Blang Keumahang'],
             ['kecamatan_id' => '110302', 'id' => '1103022002', 'desa' => 'Blang Jambee'],
             ['kecamatan_id' => '110302', 'id' => '1103022003', 'desa' => 'Keumuneng'],
@@ -779,7 +779,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110302', 'id' => '1103022035', 'desa' => 'Buket Makmu'],
             ['kecamatan_id' => '110302', 'id' => '1103022036', 'desa' => 'Lhok Seuntang'],
             ['kecamatan_id' => '110302', 'id' => '1103022037', 'desa' => 'Simpang Lhee'],
-            //            Idi Rayeuk
+            // Idi Rayeuk
             ['kecamatan_id' => '110303', 'id' => '1103032001', 'desa' => 'Gampong Jawa'],
             ['kecamatan_id' => '110303', 'id' => '1103032002', 'desa' => 'Keude Blang'],
             ['kecamatan_id' => '110303', 'id' => '1103032003', 'desa' => 'Tanoh Anoe'],
@@ -815,7 +815,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110303', 'id' => '1103032064', 'desa' => 'Gampong Baro'],
             ['kecamatan_id' => '110303', 'id' => '1103032065', 'desa' => 'Seuneubok Teungoh P. Puntong'],
             ['kecamatan_id' => '110303', 'id' => '1103032067', 'desa' => 'Kuta Lawah'],
-            //            Birem Bayeun
+            // Birem Bayeun
             ['kecamatan_id' => '110304', 'id' => '1103042001', 'desa' => 'Jambo Labu'],
             ['kecamatan_id' => '110304', 'id' => '1103042002', 'desa' => 'Alue Canang'],
             ['kecamatan_id' => '110304', 'id' => '1103042003', 'desa' => 'Alue Drien'],
@@ -843,7 +843,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110304', 'id' => '1103042025', 'desa' => 'Alue Sentang'],
             ['kecamatan_id' => '110304', 'id' => '1103042026', 'desa' => 'Merbou Dua'],
             ['kecamatan_id' => '110304', 'id' => '1103042027', 'desa' => 'Alue Nyamoek'],
-            //            Serbajadi
+            // Serbajadi
             ['kecamatan_id' => '110305', 'id' => '1103052001', 'desa' => 'Lokop'],
             ['kecamatan_id' => '110305', 'id' => '1103052002', 'desa' => 'Terujak'],
             ['kecamatan_id' => '110305', 'id' => '1103052003', 'desa' => 'Tualang'],
@@ -861,7 +861,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110305', 'id' => '1103052015', 'desa' => 'Mesir'],
             ['kecamatan_id' => '110305', 'id' => '1103052016', 'desa' => 'Rampah'],
             ['kecamatan_id' => '110305', 'id' => '1103052022', 'desa' => 'Arul Durin'],
-            //            Nurussalam
+            // Nurussalam
             ['kecamatan_id' => '110306', 'id' => '1103062001', 'desa' => 'Keude Bagok Sa'],
             ['kecamatan_id' => '110306', 'id' => '1103062002', 'desa' => 'Keude Bagok Dua'],
             ['kecamatan_id' => '110306', 'id' => '1103062003', 'desa' => 'Asan Tanjong'],
@@ -893,7 +893,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110306', 'id' => '1103062039', 'desa' => 'Beurandang'],
             ['kecamatan_id' => '110306', 'id' => '1103062040', 'desa' => 'Gampong Jalan'],
             ['kecamatan_id' => '110306', 'id' => '1103062041', 'desa' => 'Seuneubok Rambong'],
-            //            Peureulak
+            // Peureulak
             ['kecamatan_id' => '110307', 'id' => '1103072001', 'desa' => 'Pasir Putih'],
             ['kecamatan_id' => '110307', 'id' => '1103072002', 'desa' => 'Tualang'],
             ['kecamatan_id' => '110307', 'id' => '1103072003', 'desa' => 'Keude Peureulak'],
@@ -932,7 +932,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110307', 'id' => '1103072036', 'desa' => 'Cot Geulumpang'],
             ['kecamatan_id' => '110307', 'id' => '1103072037', 'desa' => 'Alue Rambong'],
             ['kecamatan_id' => '110307', 'id' => '1103072038', 'desa' => 'Cot Keh'],
-            //            Rantau Selamat
+            // Rantau Selamat
             ['kecamatan_id' => '110308', 'id' => '1103082001', 'desa' => 'Bayeun'],
             ['kecamatan_id' => '110308', 'id' => '1103082002', 'desa' => 'Rantau Panjang'],
             ['kecamatan_id' => '110308', 'id' => '1103082003', 'desa' => 'Alue Raya'],
@@ -947,7 +947,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110308', 'id' => '1103082012', 'desa' => 'Alue Kaul'],
             ['kecamatan_id' => '110308', 'id' => '1103082013', 'desa' => 'Sarah Teube'],
             ['kecamatan_id' => '110308', 'id' => '1103082014', 'desa' => 'Alue Tuwi'],
-            //            Simpang Ulim
+            // Simpang Ulim
             ['kecamatan_id' => '110309', 'id' => '1103092001', 'desa' => 'Peulalu'],
             ['kecamatan_id' => '110309', 'id' => '1103092002', 'desa' => 'Nicah Awe'],
             ['kecamatan_id' => '110309', 'id' => '1103092003', 'desa' => 'Alue Buloh Sa'],
@@ -971,7 +971,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110309', 'id' => '1103092022', 'desa' => 'Arakundo'],
             ['kecamatan_id' => '110309', 'id' => '1103092023', 'desa' => 'Gampong Baro'],
             ['kecamatan_id' => '110309', 'id' => '1103092024', 'desa' => 'Matang Seupeng'],
-            //            Rantau Peureulak
+            // Rantau Peureulak
             ['kecamatan_id' => '110310', 'id' => '1103102001', 'desa' => 'Paya Unou'],
             ['kecamatan_id' => '110310', 'id' => '1103102002', 'desa' => 'Seuneubok Johan'],
             ['kecamatan_id' => '110310', 'id' => '1103102003', 'desa' => 'Seuneubok Baro'],
@@ -995,7 +995,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110310', 'id' => '1103102021', 'desa' => 'Alue Batee'],
             ['kecamatan_id' => '110310', 'id' => '1103102022', 'desa' => 'Beurandang'],
             ['kecamatan_id' => '110310', 'id' => '1103102024', 'desa' => 'Seumanah Jaya'],
-            //            Pante Bidari
+            // Pante Bidari
             ['kecamatan_id' => '110311', 'id' => '1103112001', 'desa' => 'Blang Seunong'],
             ['kecamatan_id' => '110311', 'id' => '1103112002', 'desa' => 'Suka Damai'],
             ['kecamatan_id' => '110311', 'id' => '1103112003', 'desa' => 'Pante Labu'],
@@ -1021,7 +1021,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110311', 'id' => '1103112023', 'desa' => 'Putoh Dua'],
             ['kecamatan_id' => '110311', 'id' => '1103112024', 'desa' => 'Sah Raja'],
             ['kecamatan_id' => '110311', 'id' => '1103112025', 'desa' => 'Sijudo'],
-            //            Madat
+            // Madat
             ['kecamatan_id' => '110312', 'id' => '1103122001', 'desa' => 'Madat'],
             ['kecamatan_id' => '110312', 'id' => '1103122002', 'desa' => 'Matang Keupula Sa'],
             ['kecamatan_id' => '110312', 'id' => '1103122003', 'desa' => 'Matang Keupula Dua'],
@@ -1048,7 +1048,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110312', 'id' => '1103122024', 'desa' => 'Blang Andam'],
             ['kecamatan_id' => '110312', 'id' => '1103122025', 'desa' => 'Matang Nibong'],
             ['kecamatan_id' => '110312', 'id' => '1103122026', 'desa' => 'Lueng Sa'],
-            //            Indra Makmu
+            // Indra Makmu
             ['kecamatan_id' => '110313', 'id' => '1103132001', 'desa' => 'Seuneubok Bayu'],
             ['kecamatan_id' => '110313', 'id' => '1103132002', 'desa' => 'Alue Ie Itam'],
             ['kecamatan_id' => '110313', 'id' => '1103132003', 'desa' => 'Blang Nisan'],
@@ -1062,7 +1062,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110313', 'id' => '1103132011', 'desa' => 'Pelita Sagop Jaya'],
             ['kecamatan_id' => '110313', 'id' => '1103132012', 'desa' => 'Perkebunan Julok Rayeuk Selatan'],
             ['kecamatan_id' => '110313', 'id' => '1103132013', 'desa' => 'Perkebunan Julok Rayeuk Utara'],
-            //            Idi Tunong
+            // Idi Tunong
             ['kecamatan_id' => '110314', 'id' => '1103142001', 'desa' => 'Seuneubok Buloh'],
             ['kecamatan_id' => '110314', 'id' => '1103142002', 'desa' => 'Seuneubok Baro'],
             ['kecamatan_id' => '110314', 'id' => '1103142003', 'desa' => 'Seuneubok Meureudu'],
@@ -1088,7 +1088,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110314', 'id' => '1103142023', 'desa' => 'Seuneubok Punti'],
             ['kecamatan_id' => '110314', 'id' => '1103142024', 'desa' => 'Seuneubok Jalan'],
             ['kecamatan_id' => '110314', 'id' => '1103142025', 'desa' => 'Seuneubok Dalam'],
-            //            Banda Alam
+            // Banda Alam
             ['kecamatan_id' => '110315', 'id' => '1103152001', 'desa' => 'Jalan Dua'],
             ['kecamatan_id' => '110315', 'id' => '1103152002', 'desa' => 'Jambo Reuhat'],
             ['kecamatan_id' => '110315', 'id' => '1103152003', 'desa' => 'Seuneubok Benteng'],
@@ -1105,7 +1105,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110315', 'id' => '1103152014', 'desa' => 'Panton Rayeuk M'],
             ['kecamatan_id' => '110315', 'id' => '1103152015', 'desa' => 'Panton Rayeuk T'],
             ['kecamatan_id' => '110315', 'id' => '1103152016', 'desa' => 'Paya Laman'],
-            //            Peudawa
+            // Peudawa
             ['kecamatan_id' => '110316', 'id' => '1103162001', 'desa' => 'Gampong Keude'],
             ['kecamatan_id' => '110316', 'id' => '1103162002', 'desa' => 'Meunasah Krueng'],
             ['kecamatan_id' => '110316', 'id' => '1103162003', 'desa' => 'Kuta Baro'],
@@ -1123,7 +1123,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110316', 'id' => '1103162015', 'desa' => 'Blang Buket'],
             ['kecamatan_id' => '110316', 'id' => '1103162016', 'desa' => 'Seuneubok Peunteut'],
             ['kecamatan_id' => '110316', 'id' => '1103162017', 'desa' => 'Paya Bili Sa'],
-            //            Peureulak Timur
+            // Peureulak Timur
             ['kecamatan_id' => '110317', 'id' => '1103172001', 'desa' => 'Babah Krueng'],
             ['kecamatan_id' => '110317', 'id' => '1103172002', 'desa' => 'Kruet Lintang'],
             ['kecamatan_id' => '110317', 'id' => '1103172003', 'desa' => 'Jengki'],
@@ -1144,7 +1144,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110317', 'id' => '1103172018', 'desa' => 'Gelanggang Meurak'],
             ['kecamatan_id' => '110317', 'id' => '1103172019', 'desa' => 'Alue Bu Alue Lhok'],
             ['kecamatan_id' => '110317', 'id' => '1103172020', 'desa' => 'Tualang Pateng'],
-            //            Peureulak Barat
+            // Peureulak Barat
             ['kecamatan_id' => '110318', 'id' => '1103182001', 'desa' => 'Beusa Seberang'],
             ['kecamatan_id' => '110318', 'id' => '1103182002', 'desa' => 'Mon Geudong'],
             ['kecamatan_id' => '110318', 'id' => '1103182003', 'desa' => 'Paya Seungat'],
@@ -1160,7 +1160,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110318', 'id' => '1103182013', 'desa' => 'Beusa Baroh'],
             ['kecamatan_id' => '110318', 'id' => '1103182014', 'desa' => 'Alue Bu Jalan Baroh'],
             ['kecamatan_id' => '110318', 'id' => '1103182015', 'desa' => 'Alue Bu Tunong'],
-            //            Sungai Raya
+            // Sungai Raya
             ['kecamatan_id' => '110319', 'id' => '1103192001', 'desa' => 'Alue Rangan'],
             ['kecamatan_id' => '110319', 'id' => '1103192002', 'desa' => 'Geulumpang Payong'],
             ['kecamatan_id' => '110319', 'id' => '1103192003', 'desa' => 'Labuhan Keudee'],
@@ -1174,7 +1174,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110319', 'id' => '1103192011', 'desa' => 'Krueng Lingka'],
             ['kecamatan_id' => '110319', 'id' => '1103192012', 'desa' => 'Sungai Simpang'],
             ['kecamatan_id' => '110319', 'id' => '1103192013', 'desa' => 'Kuala Parek'],
-            //            Simpang Jernih
+            // Simpang Jernih
             ['kecamatan_id' => '110320', 'id' => '1103202001', 'desa' => 'Simpang Jernih'],
             ['kecamatan_id' => '110320', 'id' => '1103202002', 'desa' => 'Batu Sumbang'],
             ['kecamatan_id' => '110320', 'id' => '1103202003', 'desa' => 'Pante Kera'],
@@ -1183,7 +1183,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110320', 'id' => '1103202006', 'desa' => 'Tampur Paloh'],
             ['kecamatan_id' => '110320', 'id' => '1103202007', 'desa' => 'Tampur Boor'],
             ['kecamatan_id' => '110320', 'id' => '1103202008', 'desa' => 'HTI Rantau Naro'],
-            //            Darul Ihsan
+            // Darul Ihsan
             ['kecamatan_id' => '110321', 'id' => '1103212001', 'desa' => 'Meudang Ara'],
             ['kecamatan_id' => '110321', 'id' => '1103212002', 'desa' => 'Gunong Putoh'],
             ['kecamatan_id' => '110321', 'id' => '1103212003', 'desa' => 'Meunasah Aroen'],
@@ -1200,7 +1200,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110321', 'id' => '1103212014', 'desa' => 'Panton Meurebo'],
             ['kecamatan_id' => '110321', 'id' => '1103212015', 'desa' => 'Seuneubok Teungoh'],
             ['kecamatan_id' => '110321', 'id' => '1103212016', 'desa' => 'Lhok Meureu'],
-            //            Darul Falah
+            // Darul Falah
             ['kecamatan_id' => '110322', 'id' => '1103222001', 'desa' => 'Tunong Bugeng'],
             ['kecamatan_id' => '110322', 'id' => '1103222002', 'desa' => 'Cempeudak'],
             ['kecamatan_id' => '110322', 'id' => '1103222003', 'desa' => 'Buket Tufah'],
@@ -1212,7 +1212,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110322', 'id' => '1103222009', 'desa' => 'Paya Kruep'],
             ['kecamatan_id' => '110322', 'id' => '1103222010', 'desa' => 'Tunong Paya Kruep'],
             ['kecamatan_id' => '110322', 'id' => '1103222011', 'desa' => 'Alue Siwah'],
-            //            Idi Timur
+            // Idi Timur
             ['kecamatan_id' => '110323', 'id' => '1103232001', 'desa' => 'Keutapang Dua'],
             ['kecamatan_id' => '110323', 'id' => '1103232002', 'desa' => 'Matang Rayeuk PP'],
             ['kecamatan_id' => '110323', 'id' => '1103232003', 'desa' => 'Meunasah Jeumpa'],
@@ -1226,13 +1226,13 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110323', 'id' => '1103232011', 'desa' => 'Matang Bungong'],
             ['kecamatan_id' => '110323', 'id' => '1103232012', 'desa' => 'Matang Rayeuk SMK'],
             ['kecamatan_id' => '110323', 'id' => '1103232013', 'desa' => 'Seuneubok Dalam'],
-            //            Peunaron
+            // Peunaron
             ['kecamatan_id' => '110324', 'id' => '1103242001', 'desa' => 'Arul Pinang'],
             ['kecamatan_id' => '110324', 'id' => '1103242002', 'desa' => 'Peunaron Baru'],
             ['kecamatan_id' => '110324', 'id' => '1103242003', 'desa' => 'Peunaron Lama'],
             ['kecamatan_id' => '110324', 'id' => '1103242004', 'desa' => 'Bukit Tiga'],
             ['kecamatan_id' => '110324', 'id' => '1103242006', 'desa' => 'Sri Mulya'],
-            //            Aceh Tengah
+            // Aceh Tengah
             // Linge
             ['kecamatan_id' => '110401', 'id' => '1104012016', 'desa' => 'Lumut'],
             ['kecamatan_id' => '110401', 'id' => '1104012003', 'desa' => 'Delung Sekinel'],
@@ -1542,7 +1542,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110421', 'id' => '1104212010', 'desa' => 'Mekar Maju'],
             ['kecamatan_id' => '110421', 'id' => '1104212015', 'desa' => 'Pilar Wih Kiri'],
             ['kecamatan_id' => '110421', 'id' => '1104212016', 'desa' => 'Lut Jaya'],
-            //            Aceh Barat
+            // Aceh Barat
             // Johan Pahwalan
             ['kecamatan_id' => '110501', 'id' => '1105012001', 'desa' => 'Suak Indrapuri'],
             ['kecamatan_id' => '110501', 'id' => '1105012009', 'desa' => 'Pasar Aceh'],
@@ -1876,7 +1876,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110512', 'id' => '1105122005', 'desa' => 'Sibintang'],
             ['kecamatan_id' => '110512', 'id' => '1105122006', 'desa' => 'Blang Teungoh'],
             ['kecamatan_id' => '110512', 'id' => '1105122007', 'desa' => 'Antong'],
-            //            Aceh Besar
+            // Aceh Besar
             // Lhoong
             ['kecamatan_id' => '110601', 'id' => '1106012028', 'desa' => 'Meunasah Lhok'],
             ['kecamatan_id' => '110601', 'id' => '1106012026', 'desa' => 'Pudeng'],
@@ -2504,7 +2504,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110623', 'id' => '1106232012', 'desa' => 'Gampong Blang'],
             ['kecamatan_id' => '110623', 'id' => '1106232010', 'desa' => 'Bueng Sidom'],
             ['kecamatan_id' => '110623', 'id' => '1106232009', 'desa' => 'Cot Madhi'],
-            //            Pidie
+            // Pidie
             // Batee
             ['kecamatan_id' => '110703', 'id' => '1107032024', 'desa' => 'Kareung'],
             ['kecamatan_id' => '110703', 'id' => '1107032027', 'desa' => 'Awe'],
@@ -3251,7 +3251,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110731', 'id' => '1107312002', 'desa' => 'Pante Kulu'],
             ['kecamatan_id' => '110731', 'id' => '1107312006', 'desa' => 'Cut'],
             ['kecamatan_id' => '110731', 'id' => '1107312001', 'desa' => 'Lingkok'],
-            //            Aceh Utara
+            // Aceh Utara
             // Baktiya
             ['kecamatan_id' => '110801', 'id' => '1108012057', 'desa' => 'Cinta Makmur'],
             ['kecamatan_id' => '110801', 'id' => '1108012056', 'desa' => 'Babussalam'],
@@ -3310,7 +3310,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110801', 'id' => '1108012018', 'desa' => 'Alue Buya'],
             ['kecamatan_id' => '110801', 'id' => '1108012019', 'desa' => 'Matang Cut'],
             ['kecamatan_id' => '110801', 'id' => '1108012014', 'desa' => 'Tanjong Glumpang'],
-            //            Dewantara
+            // Dewantara
             ['kecamatan_id' => '110802', 'id' => '1108022008', 'desa' => 'Paloh Igeuh'],
             ['kecamatan_id' => '110802', 'id' => '1108022004', 'desa' => 'Paloh Gadeng'],
             ['kecamatan_id' => '110802', 'id' => '1108022003', 'desa' => 'Tambon Tunong'],
@@ -3326,7 +3326,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110802', 'id' => '1108022001', 'desa' => 'Keude Krueng Geukueh'],
             ['kecamatan_id' => '110802', 'id' => '1108022009', 'desa' => 'Bangka Jaya'],
             ['kecamatan_id' => '110802', 'id' => '1108022014', 'desa' => 'Bluka Teubai'],
-            //            Kuta Makmur
+            // Kuta Makmur
             ['kecamatan_id' => '110803', 'id' => '1108032039', 'desa' => 'Sido Muliyo'],
             ['kecamatan_id' => '110803', 'id' => '1108032012', 'desa' => 'Alue Rambee'],
             ['kecamatan_id' => '110803', 'id' => '1108032010', 'desa' => 'Meunye Cut Bahagia'],
@@ -3366,7 +3366,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110803', 'id' => '1108032032', 'desa' => 'Keureusek'],
             ['kecamatan_id' => '110803', 'id' => '1108032030', 'desa' => 'Meunasah Kulam'],
             ['kecamatan_id' => '110803', 'id' => '1108032033', 'desa' => 'Krueng Seupeng'],
-            //            Lhoksukon
+            // Lhoksukon
             ['kecamatan_id' => '110804', 'id' => '1108042063', 'desa' => 'Geulumpang'],
             ['kecamatan_id' => '110804', 'id' => '1108042062', 'desa' => 'Buloh Lt'],
             ['kecamatan_id' => '110804', 'id' => '1108042061', 'desa' => 'Alue Abee'],
@@ -3442,7 +3442,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110804', 'id' => '1108042017', 'desa' => 'Meunasah Leubok Ab'],
             ['kecamatan_id' => '110804', 'id' => '1108042016', 'desa' => 'Trieng Pantang'],
             ['kecamatan_id' => '110804', 'id' => '1108042015', 'desa' => 'Meunasah Arongan Ab'],
-            //            Matangkuli
+            // Matangkuli
             ['kecamatan_id' => '110805', 'id' => '1108052054', 'desa' => 'Blang Supeng'],
             ['kecamatan_id' => '110805', 'id' => '1108052053', 'desa' => 'Blang Kuta'],
             ['kecamatan_id' => '110805', 'id' => '1108052052', 'desa' => 'Leubok Pirak'],
@@ -3492,7 +3492,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110805', 'id' => '1108052011', 'desa' => 'Teungoh Glumpang Vii'],
             ['kecamatan_id' => '110805', 'id' => '1108052012', 'desa' => 'Aron Geulumpang Vii'],
             ['kecamatan_id' => '110805', 'id' => '1108052013', 'desa' => 'Matang Munye'],
-            //            Muara Batu
+            // Muara Batu
             ['kecamatan_id' => '110806', 'id' => '1108062017', 'desa' => 'Teupin Banja'],
             ['kecamatan_id' => '110806', 'id' => '1108062020', 'desa' => 'Panigah'],
             ['kecamatan_id' => '110806', 'id' => '1108062014', 'desa' => 'Paloh Awe'],
@@ -3517,7 +3517,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110806', 'id' => '1108062004', 'desa' => 'Meunasah Lhok'],
             ['kecamatan_id' => '110806', 'id' => '1108062005', 'desa' => 'Cot Seurani'],
             ['kecamatan_id' => '110806', 'id' => '1108062015', 'desa' => 'Tanoh Anoe'],
-            //            Meurah Mulia
+            // Meurah Mulia
             ['kecamatan_id' => '110807', 'id' => '1108072048', 'desa' => 'Baree Blang'],
             ['kecamatan_id' => '110807', 'id' => '1108072047', 'desa' => 'Paya Sutra'],
             ['kecamatan_id' => '110807', 'id' => '1108072036', 'desa' => 'Tualang'],
@@ -3568,7 +3568,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110807', 'id' => '1108072012', 'desa' => 'Ulee Ceubrek'],
             ['kecamatan_id' => '110807', 'id' => '1108072002', 'desa' => 'Mesjid Bluek'],
             ['kecamatan_id' => '110807', 'id' => '1108072004', 'desa' => 'Rheng Bluek'],
-            //            Samudera
+            // Samudera
             ['kecamatan_id' => '110808', 'id' => '1108082039', 'desa' => 'Kitou'],
             ['kecamatan_id' => '110808', 'id' => '1108082036', 'desa' => 'Paya Terbang'],
             ['kecamatan_id' => '110808', 'id' => '1108082035', 'desa' => 'Tanjong Mesjid'],
@@ -3609,7 +3609,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110808', 'id' => '1108082025', 'desa' => 'Matang Ulim'],
             ['kecamatan_id' => '110808', 'id' => '1108082026', 'desa' => 'Sawang'],
             ['kecamatan_id' => '110808', 'id' => '1108082031', 'desa' => 'Blang Nibong'],
-            //            Seunuddon
+            // Seunuddon
             ['kecamatan_id' => '110809', 'id' => '1108092008', 'desa' => 'Blang Tue'],
             ['kecamatan_id' => '110809', 'id' => '1108092002', 'desa' => 'Meurubo Puntong'],
             ['kecamatan_id' => '110809', 'id' => '1108092003', 'desa' => 'Mane Kawan'],
@@ -3643,7 +3643,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110809', 'id' => '1108092024', 'desa' => 'Ulee Rubek Timu'],
             ['kecamatan_id' => '110809', 'id' => '1108092025', 'desa' => 'Bantayan'],
             ['kecamatan_id' => '110809', 'id' => '1108092026', 'desa' => 'Teupin Kuyuen'],
-            //            Syamtalira Aron
+            // Syamtalira Aron
             ['kecamatan_id' => '110810', 'id' => '1108102015', 'desa' => 'Tanjong Krueng Pase'],
             ['kecamatan_id' => '110810', 'id' => '1108102010', 'desa' => 'Matang Munye'],
             ['kecamatan_id' => '110810', 'id' => '1108102013', 'desa' => 'Blang'],
@@ -3678,7 +3678,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110810', 'id' => '1108102026', 'desa' => 'Ampeh'],
             ['kecamatan_id' => '110810', 'id' => '1108102027', 'desa' => 'Dayah Meuria'],
             ['kecamatan_id' => '110810', 'id' => '1108102025', 'desa' => 'Kulam'],
-            //            Syamtalira Bayu
+            // Syamtalira Bayu
             ['kecamatan_id' => '110811', 'id' => '1108112022', 'desa' => 'Garut'],
             ['kecamatan_id' => '110811', 'id' => '1108112025', 'desa' => 'Cibrek'],
             ['kecamatan_id' => '110811', 'id' => '1108112027', 'desa' => 'Meudang Ara'],
@@ -3717,7 +3717,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110811', 'id' => '1108112014', 'desa' => 'Punti'],
             ['kecamatan_id' => '110811', 'id' => '1108112016', 'desa' => 'Baroh Blang Rimueng'],
             ['kecamatan_id' => '110811', 'id' => '1108112013', 'desa' => 'Lancok'],
-            //            Tanah Luas
+            // Tanah Luas
             ['kecamatan_id' => '110812', 'id' => '1108122042', 'desa' => 'Leupon Siren'],
             ['kecamatan_id' => '110812', 'id' => '1108122040', 'desa' => 'Ulee Buket'],
             ['kecamatan_id' => '110812', 'id' => '1108122048', 'desa' => 'Blang Pie'],
@@ -3775,7 +3775,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110812', 'id' => '1108122010', 'desa' => 'Pulo U'],
             ['kecamatan_id' => '110812', 'id' => '1108122011', 'desa' => 'Alue Keujruen'],
             ['kecamatan_id' => '110812', 'id' => '1108122057', 'desa' => 'Buket Makarti'],
-            //            Tanah Pasir
+            // Tanah Pasir
             ['kecamatan_id' => '110813', 'id' => '1108132001', 'desa' => 'Alue'],
             ['kecamatan_id' => '110813', 'id' => '1108132005', 'desa' => 'Keude Matang Payang'],
             ['kecamatan_id' => '110813', 'id' => '1108132003', 'desa' => 'Blang'],
@@ -3794,7 +3794,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110813', 'id' => '1108132014', 'desa' => 'Cibrek'],
             ['kecamatan_id' => '110813', 'id' => '1108132017', 'desa' => 'Matang Janeng'],
             ['kecamatan_id' => '110813', 'id' => '1108132018', 'desa' => 'Kuala Keureutou Barat'],
-            //            T. Jambo Aye
+            // T. Jambo Aye
             ['kecamatan_id' => '110814', 'id' => '1108142020', 'desa' => 'Buket Jrat Manyang'],
             ['kecamatan_id' => '110814', 'id' => '1108142029', 'desa' => 'Matang Raya'],
             ['kecamatan_id' => '110814', 'id' => '1108142026', 'desa' => 'Matang Seuke Pulot'],
@@ -3842,7 +3842,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110814', 'id' => '1108142004', 'desa' => 'Seuneubok Doe'],
             ['kecamatan_id' => '110814', 'id' => '1108142003', 'desa' => 'Ranto Panyang'],
             ['kecamatan_id' => '110814', 'id' => '1108142002', 'desa' => 'Geulumpang Umpung Unou'],
-            //            Sawang
+            // Sawang
             ['kecamatan_id' => '110815', 'id' => '1108152035', 'desa' => 'Riseh Tunong'],
             ['kecamatan_id' => '110815', 'id' => '1108152036', 'desa' => 'Gunci'],
             ['kecamatan_id' => '110815', 'id' => '1108152037', 'desa' => 'Kubu'],
@@ -3882,7 +3882,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110815', 'id' => '1108152005', 'desa' => 'Gle Dagang'],
             ['kecamatan_id' => '110815', 'id' => '1108152001', 'desa' => 'Lagang'],
             ['kecamatan_id' => '110815', 'id' => '1108152004', 'desa' => 'Lhok Merbo'],
-            //            Nisam
+            // Nisam
             ['kecamatan_id' => '110816', 'id' => '1108162032', 'desa' => 'Jeulikat'],
             ['kecamatan_id' => '110816', 'id' => '1108162031', 'desa' => 'Meunasah Cut'],
             ['kecamatan_id' => '110816', 'id' => '1108162033', 'desa' => 'Alue Bili'],
@@ -3912,7 +3912,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110816', 'id' => '1108162021', 'desa' => 'Seuneubok'],
             ['kecamatan_id' => '110816', 'id' => '1108162017', 'desa' => 'Blang Karieng'],
             ['kecamatan_id' => '110816', 'id' => '1108162018', 'desa' => 'Paloh Kayee Kunyet'],
-            //            Cot Girek
+            // Cot Girek
             ['kecamatan_id' => '110817', 'id' => '1108172001', 'desa' => 'Cot Girek'],
             ['kecamatan_id' => '110817', 'id' => '1108172008', 'desa' => 'Alue Leuhob'],
             ['kecamatan_id' => '110817', 'id' => '1108172002', 'desa' => 'Lhok Meurbo'],
@@ -3937,7 +3937,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110817', 'id' => '1108172005', 'desa' => 'Ulee Gampong'],
             ['kecamatan_id' => '110817', 'id' => '1108172013', 'desa' => 'Pucok Alue'],
             ['kecamatan_id' => '110817', 'id' => '1108172012', 'desa' => 'Matang Teungoh'],
-            //            Langkahan
+            // Langkahan
             ['kecamatan_id' => '110818', 'id' => '1108182021', 'desa' => 'Lubok Pusaka'],
             ['kecamatan_id' => '110818', 'id' => '1108182022', 'desa' => 'Seureuke'],
             ['kecamatan_id' => '110818', 'id' => '1108182020', 'desa' => 'Buket Linteung'],
@@ -3961,7 +3961,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110818', 'id' => '1108182003', 'desa' => 'Bantayan'],
             ['kecamatan_id' => '110818', 'id' => '1108182002', 'desa' => 'Alue Dua'],
             ['kecamatan_id' => '110818', 'id' => '1108182001', 'desa' => 'Cot Bada'],
-            //            Baktiya Barat
+            // Baktiya Barat
             ['kecamatan_id' => '110819', 'id' => '1108192011', 'desa' => 'Cot Kupok'],
             ['kecamatan_id' => '110819', 'id' => '1108192012', 'desa' => 'Matang Raya Blang Sialet'],
             ['kecamatan_id' => '110819', 'id' => '1108192013', 'desa' => 'Pucok Alue Buket'],
@@ -3988,7 +3988,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110819', 'id' => '1108192025', 'desa' => 'Blang Rheue'],
             ['kecamatan_id' => '110819', 'id' => '1108192022', 'desa' => 'Lhok Euncien'],
             ['kecamatan_id' => '110819', 'id' => '1108192026', 'desa' => 'Paya Bateung'],
-            //            Paya Bakong
+            // Paya Bakong
             ['kecamatan_id' => '110820', 'id' => '1108202012', 'desa' => 'Blang Mane'],
             ['kecamatan_id' => '110820', 'id' => '1108202029', 'desa' => 'Matang Panyang'],
             ['kecamatan_id' => '110820', 'id' => '1108202007', 'desa' => 'Alue Lhok'],
@@ -4028,7 +4028,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110820', 'id' => '1108202022', 'desa' => 'Jok'],
             ['kecamatan_id' => '110820', 'id' => '1108202017', 'desa' => 'Tunong Krueng'],
             ['kecamatan_id' => '110820', 'id' => '1108202021', 'desa' => 'Tumpok Mesjid'],
-            //            Nibong
+            // Nibong
             ['kecamatan_id' => '110821', 'id' => '1108212019', 'desa' => 'Bumban'],
             ['kecamatan_id' => '110821', 'id' => '1108212017', 'desa' => 'Alue Ngom'],
             ['kecamatan_id' => '110821', 'id' => '1108212020', 'desa' => 'Alue Panah'],
@@ -4049,7 +4049,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110821', 'id' => '1108212003', 'desa' => 'Keude Nibong'],
             ['kecamatan_id' => '110821', 'id' => '1108212002', 'desa' => 'Nibong Wakheuh'],
             ['kecamatan_id' => '110821', 'id' => '1108212001', 'desa' => 'Nibong Baroh'],
-            //            Simpang Kramat
+            // Simpang Kramat
             ['kecamatan_id' => '110822', 'id' => '1108222015', 'desa' => 'Pase Sentosa'],
             ['kecamatan_id' => '110822', 'id' => '1108222012', 'desa' => 'Kilometer Viii'],
             ['kecamatan_id' => '110822', 'id' => '1108222011', 'desa' => 'Kilometer Vi'],
@@ -4066,7 +4066,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110822', 'id' => '1108222009', 'desa' => 'Alue Bade'],
             ['kecamatan_id' => '110822', 'id' => '1108222004', 'desa' => 'Paya Teungoh'],
             ['kecamatan_id' => '110822', 'id' => '1108222003', 'desa' => 'Paya Leupah'],
-            //            Lapang
+            // Lapang
             ['kecamatan_id' => '110823', 'id' => '1108232001', 'desa' => 'Keureutou'],
             ['kecamatan_id' => '110823', 'id' => '1108232002', 'desa' => 'Lueng Baro'],
             ['kecamatan_id' => '110823', 'id' => '1108232004', 'desa' => 'Merbo Lama'],
@@ -4078,7 +4078,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110823', 'id' => '1108232008', 'desa' => 'Keude Lapang'],
             ['kecamatan_id' => '110823', 'id' => '1108232011', 'desa' => 'Kuala Cangkoy'],
             ['kecamatan_id' => '110823', 'id' => '1108232010', 'desa' => 'Kuala Kereuto'],
-            //            Pirak Timur
+            // Pirak Timur
             ['kecamatan_id' => '110824', 'id' => '1108242014', 'desa' => 'Tanjong Seureukuy'],
             ['kecamatan_id' => '110824', 'id' => '1108242011', 'desa' => 'Alue Rimee'],
             ['kecamatan_id' => '110824', 'id' => '1108242010', 'desa' => 'Paya Lueng Jalo'],
@@ -4102,7 +4102,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110824', 'id' => '1108242003', 'desa' => 'Geulumpang'],
             ['kecamatan_id' => '110824', 'id' => '1108242004', 'desa' => 'Asan Krueng Kreh'],
             ['kecamatan_id' => '110824', 'id' => '1108242005', 'desa' => 'Beuracan Rata'],
-            //            Geuredong Pase
+            // Geuredong Pase
             ['kecamatan_id' => '110825', 'id' => '1108252011', 'desa' => 'Suka Damai'],
             ['kecamatan_id' => '110825', 'id' => '1108252010', 'desa' => 'Pulo Meuria'],
             ['kecamatan_id' => '110825', 'id' => '1108252009', 'desa' => 'Krueng Mbang'],
@@ -4114,7 +4114,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110825', 'id' => '1108252003', 'desa' => 'Alue Awe'],
             ['kecamatan_id' => '110825', 'id' => '1108252001', 'desa' => 'Lhok Asan'],
             ['kecamatan_id' => '110825', 'id' => '1108252002', 'desa' => 'Darul Aman'],
-            //            Banda Baro
+            // Banda Baro
             ['kecamatan_id' => '110826', 'id' => '1108262005', 'desa' => 'Jamuan'],
             ['kecamatan_id' => '110826', 'id' => '1108262006', 'desa' => 'Alue Keurinyai'],
             ['kecamatan_id' => '110826', 'id' => '1108262008', 'desa' => 'Blang Pala'],
@@ -4124,7 +4124,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '110826', 'id' => '1108262002', 'desa' => 'Cot Jabet'],
             ['kecamatan_id' => '110826', 'id' => '1108262001', 'desa' => 'Paya Dua'],
             ['kecamatan_id' => '110826', 'id' => '1108262009', 'desa' => 'Paya Beunyet'],
-            //            Nisam Antara
+            // Nisam Antara
             ['kecamatan_id' => '110827', 'id' => '1108272001', 'desa' => 'Alue Dua'],
             ['kecamatan_id' => '110827', 'id' => '1108272004', 'desa' => 'Alue Papeun'],
             ['kecamatan_id' => '110827', 'id' => '1108272005', 'desa' => 'Blang Jrat'],
@@ -4408,7 +4408,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '111016', 'id' => '1110162003', 'desa' => 'Ujung Sialit'],
             ['kecamatan_id' => '111016', 'id' => '1110162001', 'desa' => 'Haloban'],
             ['kecamatan_id' => '111016', 'id' => '1110162004', 'desa' => 'Suka Makmur'],
-            //            Bireuen
+            // Bireuen
             // Samalanga
             ['kecamatan_id' => '111101', 'id' => '1111012037', 'desa' => 'Meurah'],
             ['kecamatan_id' => '111101', 'id' => '1111012036', 'desa' => 'Cot Meurak Blang'],
@@ -5035,18 +5035,170 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '111117', 'id' => '1111172039', 'desa' => 'Jambo Kajeung'],
             ['kecamatan_id' => '111117', 'id' => '1111172040', 'desa' => 'Kulu Kuta'],
             ['kecamatan_id' => '111117', 'id' => '1111172041', 'desa' => 'Pulo Awe'],
-            //            Aceh Barat Daya
+            // Aceh Barat Daya
             // Blang Pidie
+            ['kecamatan_id' => '111201', 'id' => '1112012014', 'desa' => 'Cot Jeurat'],
+            ['kecamatan_id' => '111201', 'id' => '1112012017', 'desa' => 'Kuta Bahagia'],
+            ['kecamatan_id' => '111201', 'id' => '1112012016', 'desa' => 'Keude Siblah'],
+            ['kecamatan_id' => '111201', 'id' => '1112012026', 'desa' => 'Pasar Blangpidie'],
+            ['kecamatan_id' => '111201', 'id' => '1112012015', 'desa' => 'Meudang Ara'],
+            ['kecamatan_id' => '111201', 'id' => '1112012020', 'desa' => 'Geulumpang Payong'],
+            ['kecamatan_id' => '111201', 'id' => '1112012018', 'desa' => 'Kuta Tinggi'],
+            ['kecamatan_id' => '111201', 'id' => '1112012025', 'desa' => 'Keude Paya'],
+            ['kecamatan_id' => '111201', 'id' => '1112012024', 'desa' => 'Baharu'],
+            ['kecamatan_id' => '111201', 'id' => '1112012023', 'desa' => 'Lam Kuta'],
+            ['kecamatan_id' => '111201', 'id' => '1112012022', 'desa' => 'Alue Manggota'],
+            ['kecamatan_id' => '111201', 'id' => '1112012019', 'desa' => 'Mata Ie'],
+            ['kecamatan_id' => '111201', 'id' => '1112012021', 'desa' => 'Panton Raya'],
+            ['kecamatan_id' => '111201', 'id' => '1112012007', 'desa' => 'Seunaloh'],
+            ['kecamatan_id' => '111201', 'id' => '1112012010', 'desa' => 'Lhung Tarok'],
+            ['kecamatan_id' => '111201', 'id' => '1112012008', 'desa' => 'Lhung Asan'],
+            ['kecamatan_id' => '111201', 'id' => '1112012006', 'desa' => 'Guhang'],
+            ['kecamatan_id' => '111201', 'id' => '1112012028', 'desa' => 'Kuta Tuha'],
+            ['kecamatan_id' => '111201', 'id' => '1112012029', 'desa' => 'Gudang'],
+            ['kecamatan_id' => '111201', 'id' => '1112012030', 'desa' => 'Babah Lhueng'],
             // Tangan-tangan
+            ['kecamatan_id' => '111202', 'id' => '1112022017', 'desa' => 'Padang Bak Jok'],
+            ['kecamatan_id' => '111202', 'id' => '1112022018', 'desa' => 'Suak Nibong'],
+            ['kecamatan_id' => '111202', 'id' => '1112022015', 'desa' => 'Drien Kipah'],
+            ['kecamatan_id' => '111202', 'id' => '1112022014', 'desa' => 'Bineh Krueng'],
+            ['kecamatan_id' => '111202', 'id' => '1112022016', 'desa' => 'Drien Jalo'],
+            ['kecamatan_id' => '111202', 'id' => '1112022005', 'desa' => 'Padang Kawa'],
+            ['kecamatan_id' => '111202', 'id' => '1112022003', 'desa' => 'Mesjid'],
+            ['kecamatan_id' => '111202', 'id' => '1112022001', 'desa' => 'Adan'],
+            ['kecamatan_id' => '111202', 'id' => '1112022002', 'desa' => 'Pante Geulumpang'],
+            ['kecamatan_id' => '111202', 'id' => '1112022004', 'desa' => 'Gunong Cut'],
+            ['kecamatan_id' => '111202', 'id' => '1112022007', 'desa' => 'Padang Bak Jeumpa'],
+            ['kecamatan_id' => '111202', 'id' => '1112022006', 'desa' => 'Blang Padang'],
+            ['kecamatan_id' => '111202', 'id' => '1112022008', 'desa' => 'Suak Labu'],
+            ['kecamatan_id' => '111202', 'id' => '1112022019', 'desa' => 'Kuta Bak Drien'],
+            ['kecamatan_id' => '111202', 'id' => '1112022020', 'desa' => 'Ie Lhob'],
             // Manggeng
+            ['kecamatan_id' => '111203', 'id' => '1112032003', 'desa' => 'Tengah'],
+            ['kecamatan_id' => '111203', 'id' => '1112032002', 'desa' => 'Padang'],
+            ['kecamatan_id' => '111203', 'id' => '1112032001', 'desa' => 'Kedai'],
+            ['kecamatan_id' => '111203', 'id' => '1112032005', 'desa' => 'Paya'],
+            ['kecamatan_id' => '111203', 'id' => '1112032006', 'desa' => 'Seuneulop'],
+            ['kecamatan_id' => '111203', 'id' => '1112032009', 'desa' => 'Ladang Panah'],
+            ['kecamatan_id' => '111203', 'id' => '1112032010', 'desa' => 'Pusu Ingin Jaya'],
+            ['kecamatan_id' => '111203', 'id' => '1112032030', 'desa' => 'Ujung Tanah'],
+            ['kecamatan_id' => '111203', 'id' => '1112032022', 'desa' => 'Lhueng Baro'],
+            ['kecamatan_id' => '111203', 'id' => '1112032011', 'desa' => 'Panton Makmur'],
+            ['kecamatan_id' => '111203', 'id' => '1112032025', 'desa' => 'Pante Raja'],
+            ['kecamatan_id' => '111203', 'id' => '1112032027', 'desa' => 'Lhok Pawoh'],
+            ['kecamatan_id' => '111203', 'id' => '1112032029', 'desa' => 'Pante Pirak'],
+            ['kecamatan_id' => '111203', 'id' => '1112032026', 'desa' => 'Sejahtera'],
+            ['kecamatan_id' => '111203', 'id' => '1112032024', 'desa' => 'Blang Manggeng'],
+            ['kecamatan_id' => '111203', 'id' => '1112032023', 'desa' => 'Tokoh'],
+            ['kecamatan_id' => '111203', 'id' => '1112032007', 'desa' => 'Lhok Puntoy'],
+            ['kecamatan_id' => '111203', 'id' => '1112032031', 'desa' => 'Pante Cermin'],
             // Susoh
+            ['kecamatan_id' => '111204', 'id' => '1112042015', 'desa' => 'Kedai Susoh'],
+            ['kecamatan_id' => '111204', 'id' => '1112042016', 'desa' => 'Panjang Baru'],
+            ['kecamatan_id' => '111204', 'id' => '1112042017', 'desa' => 'Kedai Palak Kerambil'],
+            ['kecamatan_id' => '111204', 'id' => '1112042018', 'desa' => 'Ladang'],
+            ['kecamatan_id' => '111204', 'id' => '1112042026', 'desa' => 'Padang Panjang'],
+            ['kecamatan_id' => '111204', 'id' => '1112042027', 'desa' => 'Rubek Meupayong'],
+            ['kecamatan_id' => '111204', 'id' => '1112042028', 'desa' => 'Cot Mancang'],
+            ['kecamatan_id' => '111204', 'id' => '1112042025', 'desa' => 'Lampoh Drien'],
+            ['kecamatan_id' => '111204', 'id' => '1112042024', 'desa' => 'Meunasah'],
+            ['kecamatan_id' => '111204', 'id' => '1112042023', 'desa' => 'Blang Dalam'],
+            ['kecamatan_id' => '111204', 'id' => '1112042004', 'desa' => 'Palak Hulu'],
+            ['kecamatan_id' => '111204', 'id' => '1112042005', 'desa' => 'Palak Hilir'],
+            ['kecamatan_id' => '111204', 'id' => '1112042007', 'desa' => 'Rumah Dua Lapis'],
+            ['kecamatan_id' => '111204', 'id' => '1112042006', 'desa' => 'Durian Jangek'],
+            ['kecamatan_id' => '111204', 'id' => '1112042010', 'desa' => 'Baharu'],
+            ['kecamatan_id' => '111204', 'id' => '1112042008', 'desa' => 'Pinang'],
+            ['kecamatan_id' => '111204', 'id' => '1112042009', 'desa' => 'Rumah Panjang'],
+            ['kecamatan_id' => '111204', 'id' => '1112042012', 'desa' => 'Padang Baru'],
+            ['kecamatan_id' => '111204', 'id' => '1112042013', 'desa' => 'Pulau Kayu'],
+            ['kecamatan_id' => '111204', 'id' => '1112042014', 'desa' => 'Ujung Padang'],
+            ['kecamatan_id' => '111204', 'id' => '1112042011', 'desa' => 'Pawoh'],
+            ['kecamatan_id' => '111204', 'id' => '1112042003', 'desa' => 'Barat'],
+            ['kecamatan_id' => '111204', 'id' => '1112042002', 'desa' => 'Durian Rampak'],
+            ['kecamatan_id' => '111204', 'id' => '1112042001', 'desa' => 'Pantai Perak'],
+            ['kecamatan_id' => '111204', 'id' => '1112042022', 'desa' => 'Padang Hilir'],
+            ['kecamatan_id' => '111204', 'id' => '1112042021', 'desa' => 'Gadang'],
+            ['kecamatan_id' => '111204', 'id' => '1112042020', 'desa' => 'Tangah'],
+            ['kecamatan_id' => '111204', 'id' => '1112042019', 'desa' => 'Kepala Bandar'],
+            ['kecamatan_id' => '111204', 'id' => '1112042029', 'desa' => 'Geulima Jaya'],
             // Kuala Batee
-            //=CONCATENATE("[kec, ", "'id' => '",E3, "', 'desa' => '",D3, "'],")
+            ['kecamatan_id' => '111205', 'id' => '1112052018', 'desa' => 'Lama Tuha'],
+            ['kecamatan_id' => '111205', 'id' => '1112052017', 'desa' => 'Keude Baro'],
+            ['kecamatan_id' => '111205', 'id' => '1112052016', 'desa' => 'Ie Mameh'],
+            ['kecamatan_id' => '111205', 'id' => '1112052014', 'desa' => 'Alue Pisang'],
+            ['kecamatan_id' => '111205', 'id' => '1112052013', 'desa' => 'Krueng Batee'],
+            ['kecamatan_id' => '111205', 'id' => '1112052015', 'desa' => 'Lhok Gajah'],
+            ['kecamatan_id' => '111205', 'id' => '1112052008', 'desa' => 'Muka Blang'],
+            ['kecamatan_id' => '111205', 'id' => '1112052010', 'desa' => 'Padang Sikabu'],
+            ['kecamatan_id' => '111205', 'id' => '1112052009', 'desa' => 'Lhung Geulumpang'],
+            ['kecamatan_id' => '111205', 'id' => '1112052007', 'desa' => 'Alue Padee'],
+            ['kecamatan_id' => '111205', 'id' => '1112052012', 'desa' => 'Blang Panyang'],
+            ['kecamatan_id' => '111205', 'id' => '1112052011', 'desa' => 'Kampung Tengah'],
+            ['kecamatan_id' => '111205', 'id' => '1112052005', 'desa' => 'Blang Makmur'],
+            ['kecamatan_id' => '111205', 'id' => '1112052004', 'desa' => 'Kuala Terubue'],
+            ['kecamatan_id' => '111205', 'id' => '1112052002', 'desa' => 'Pasar Kota Bahagia'],
+            ['kecamatan_id' => '111205', 'id' => '1112052006', 'desa' => 'Panto Cut'],
+            ['kecamatan_id' => '111205', 'id' => '1112052001', 'desa' => 'Kota Bahagia'],
+            ['kecamatan_id' => '111205', 'id' => '1112052003', 'desa' => 'Geulanggang Gajah'],
+            ['kecamatan_id' => '111205', 'id' => '1112052021', 'desa' => 'Krueng Panto'],
+            ['kecamatan_id' => '111205', 'id' => '1112052019', 'desa' => 'Drien Beurumbang'],
+            ['kecamatan_id' => '111205', 'id' => '1112052020', 'desa' => 'Rumoh Panyang'],
             // Babah Rot
+            ['kecamatan_id' => '111206', 'id' => '1112062003', 'desa' => 'Gunung Samarinda'],
+            ['kecamatan_id' => '111206', 'id' => '1112062002', 'desa' => 'Ie Mirah'],
+            ['kecamatan_id' => '111206', 'id' => '1112062001', 'desa' => 'Pante Rakyat'],
+            ['kecamatan_id' => '111206', 'id' => '1112062007', 'desa' => 'Pante Cermin'],
+            ['kecamatan_id' => '111206', 'id' => '1112062004', 'desa' => 'Alue Jeurejak'],
+            ['kecamatan_id' => '111206', 'id' => '1112062005', 'desa' => 'Blang Dalam'],
+            ['kecamatan_id' => '111206', 'id' => '1112062006', 'desa' => 'Alue Peunawa'],
+            ['kecamatan_id' => '111206', 'id' => '1112062010', 'desa' => 'Simpang Gadeng'],
+            ['kecamatan_id' => '111206', 'id' => '1112062011', 'desa' => 'Teladan Jaya'],
+            ['kecamatan_id' => '111206', 'id' => '1112062008', 'desa' => 'Blang Raja'],
+            ['kecamatan_id' => '111206', 'id' => '1112062009', 'desa' => 'Rukoen Dame'],
+            ['kecamatan_id' => '111206', 'id' => '1112062012', 'desa' => 'Lhok Gayo'],
+            ['kecamatan_id' => '111206', 'id' => '1112062013', 'desa' => 'Alue Dawah'],
+            ['kecamatan_id' => '111206', 'id' => '1112062014', 'desa' => 'Cot Seumantok'],
             // Setia
+            ['kecamatan_id' => '111207', 'id' => '1112072007', 'desa' => 'Tangan-tangan Cut'],
+            ['kecamatan_id' => '111207', 'id' => '1112072001', 'desa' => 'Lhang'],
+            ['kecamatan_id' => '111207', 'id' => '1112072004', 'desa' => 'Ujong Tanoh'],
+            ['kecamatan_id' => '111207', 'id' => '1112072002', 'desa' => 'Rambong'],
+            ['kecamatan_id' => '111207', 'id' => '1112072003', 'desa' => 'Pisang'],
+            ['kecamatan_id' => '111207', 'id' => '1112072005', 'desa' => 'Alue Dama'],
+            ['kecamatan_id' => '111207', 'id' => '1112072008', 'desa' => 'Mon Mameh'],
+            ['kecamatan_id' => '111207', 'id' => '1112072009', 'desa' => 'Cinta Makmur'],
+            ['kecamatan_id' => '111207', 'id' => '1112072010', 'desa' => 'Kuta Murni'],
             // Jeumpa
+            ['kecamatan_id' => '111208', 'id' => '1112082008', 'desa' => 'Padang Geulumpang'],
+            ['kecamatan_id' => '111208', 'id' => '1112082007', 'desa' => 'Asoe Nanggroe'],
+            ['kecamatan_id' => '111208', 'id' => '1112082006', 'desa' => 'Ladang Neubok'],
+            ['kecamatan_id' => '111208', 'id' => '1112082009', 'desa' => 'Ikue Lhung'],
+            ['kecamatan_id' => '111208', 'id' => '1112082005', 'desa' => 'Cot Mane'],
+            ['kecamatan_id' => '111208', 'id' => '1112082003', 'desa' => 'Kuta Jeumpa'],
+            ['kecamatan_id' => '111208', 'id' => '1112082004', 'desa' => 'Alue Sungai Pinang'],
+            ['kecamatan_id' => '111208', 'id' => '1112082002', 'desa' => 'Alue Rambot'],
+            ['kecamatan_id' => '111208', 'id' => '1112082001', 'desa' => 'Baru'],
+            ['kecamatan_id' => '111208', 'id' => '1112082010', 'desa' => 'Kuta Makmur'],
+            ['kecamatan_id' => '111208', 'id' => '1112082012', 'desa' => 'Alue Seulaseh'],
+            ['kecamatan_id' => '111208', 'id' => '1112082011', 'desa' => 'Jeumpa Barat'],
             // Lembah Sabil
-            //            Gayo Lues
+            ['kecamatan_id' => '111209', 'id' => '1112092008', 'desa' => 'Ujung Tanah'],
+            ['kecamatan_id' => '111209', 'id' => '1112092007', 'desa' => 'Kuta Paya'],
+            ['kecamatan_id' => '111209', 'id' => '1112092006', 'desa' => 'Geulanggang Batee'],
+            ['kecamatan_id' => '111209', 'id' => '1112092005', 'desa' => 'Meunasah Tengah'],
+            ['kecamatan_id' => '111209', 'id' => '1112092004', 'desa' => 'Meunasah Sukon'],
+            ['kecamatan_id' => '111209', 'id' => '1112092003', 'desa' => 'Cot Bak-u'],
+            ['kecamatan_id' => '111209', 'id' => '1112092001', 'desa' => 'Meurandeh'],
+            ['kecamatan_id' => '111209', 'id' => '1112092009', 'desa' => 'Padang Keulele'],
+            ['kecamatan_id' => '111209', 'id' => '1112092011', 'desa' => 'Ladang Tuha I'],
+            ['kecamatan_id' => '111209', 'id' => '1112092012', 'desa' => 'Ladang Tuha Ii'],
+            ['kecamatan_id' => '111209', 'id' => '1112092010', 'desa' => 'Alue Rambot'],
+            ['kecamatan_id' => '111209', 'id' => '1112092002', 'desa' => 'Sukadamai'],
+            ['kecamatan_id' => '111209', 'id' => '1112092013', 'desa' => 'Tokoh Ii'],
+            ['kecamatan_id' => '111209', 'id' => '1112092014', 'desa' => 'Kayee Aceh'],
+            //=CONCATENATE("[kec, ", "'id' => '",E3, "', 'desa' => '",D3, "'],")
+            // Gayo Lues
             // Blangkejeren
             // Kutapanjang
             // Rikit Gaib
@@ -5057,7 +5209,7 @@ class DesaAcehSeeder extends Seeder
             // Blangjerango
             // Teripe Jaya
             // Pantan Cuaca
-            //            Aceh Jaya
+            // Aceh Jaya
             // Teunom
             // Krueng Sabee
             // Setia Bhakti
@@ -5067,7 +5219,7 @@ class DesaAcehSeeder extends Seeder
             // Indra Jaya
             // Darul Hikmah
             // Pasie Raya
-            //            Nagan Raya
+            // Nagan Raya
             // Kuala
             // Seunagan
             // Seunagan Timur
@@ -5078,7 +5230,7 @@ class DesaAcehSeeder extends Seeder
             // Tadu Raya
             // Tripa Makmur
             // Beutong Ateuh
-            //            Aceh Tamiang
+            // Aceh Tamiang
             // Manyak Payed
             // Bendahara
             // Karang Baru
@@ -5091,7 +5243,7 @@ class DesaAcehSeeder extends Seeder
             // Bandar Pusaka
             // Tenggulun
             // Sekerak
-            //            Bener Meriah
+            // Bener Meriah
             // Pintu Rime Gayo
             // Permata
             // Syiah Utama
@@ -5102,7 +5254,7 @@ class DesaAcehSeeder extends Seeder
             // Bener Kelipah
             // Mesidah
             // Gajah Putih
-            //            Pidie Jaya
+            // Pidie Jaya
             // Meureudu
             // Ulim
             // Jangka Buaya
@@ -5233,8 +5385,8 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117202', 'id' => '1172022010', 'desa' => 'Anoe Itam'],
             ['kecamatan_id' => '117202', 'id' => '1172022009', 'desa' => 'Ujoeng Kareung'],
             ['kecamatan_id' => '117202', 'id' => '1172022008', 'desa' => 'Ie Meulee'],
-            //            Lhokseumawe
-            //            Muara Dua
+            // Lhokseumawe
+            // Muara Dua
             ['kecamatan_id' => '117301', 'id' => '1173012026', 'desa' => 'Paloh Batee'],
             ['kecamatan_id' => '117301', 'id' => '1173012009', 'desa' => 'Lhok Mon Puteh'],
             ['kecamatan_id' => '117301', 'id' => '1173012006', 'desa' => 'Cot Girek Kandang'],
@@ -5251,7 +5403,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117301', 'id' => '1173012010', 'desa' => 'Meunasah Mesjid'],
             ['kecamatan_id' => '117301', 'id' => '1173012013', 'desa' => 'Paya Bili'],
             ['kecamatan_id' => '117301', 'id' => '1173012014', 'desa' => 'Meunasah Alue'],
-            //            Banda Sakti
+            // Banda Sakti
             ['kecamatan_id' => '117302', 'id' => '1173022006', 'desa' => 'Mon Geudong'],
             ['kecamatan_id' => '117302', 'id' => '1173022007', 'desa' => 'Keude Aceh'],
             ['kecamatan_id' => '117302', 'id' => '1173022008', 'desa' => 'Pusong Lhokseumawe'],
@@ -5270,7 +5422,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117302', 'id' => '1173022009', 'desa' => 'Hagu Teungoh'],
             ['kecamatan_id' => '117302', 'id' => '1173022012', 'desa' => 'Hagu Selatan'],
             ['kecamatan_id' => '117302', 'id' => '1173022004', 'desa' => 'Kampung Jawa Lhokseumawe'],
-            //            Blang Mangat
+            // Blang Mangat
             ['kecamatan_id' => '117303', 'id' => '1173032017', 'desa' => 'Alue Lim'],
             ['kecamatan_id' => '117303', 'id' => '1173032018', 'desa' => 'Blang Buloh'],
             ['kecamatan_id' => '117303', 'id' => '1173032009', 'desa' => 'Mane Kareung'],
@@ -5292,7 +5444,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117303', 'id' => '1173032019', 'desa' => 'Blang Weu Panjoe'],
             ['kecamatan_id' => '117303', 'id' => '1173032021', 'desa' => 'Blang Weu Baroh'],
             ['kecamatan_id' => '117303', 'id' => '1173032022', 'desa' => 'Seuneubok'],
-            //            Muara Satu
+            // Muara Satu
             ['kecamatan_id' => '117304', 'id' => '1173042008', 'desa' => 'Cot Trieng'],
             ['kecamatan_id' => '117304', 'id' => '1173042004', 'desa' => 'Paloh Punti'],
             ['kecamatan_id' => '117304', 'id' => '1173042003', 'desa' => 'Meunasah Dayah'],
@@ -5304,8 +5456,8 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117304', 'id' => '1173042011', 'desa' => 'Ujong Pacu'],
             ['kecamatan_id' => '117304', 'id' => '1173042007', 'desa' => 'Blang Naleung Mameh'],
             ['kecamatan_id' => '117304', 'id' => '1173042001', 'desa' => 'Batuphat Barat'],
-            //            Langsa
-            //            Langsa Timur
+            // Langsa
+            // Langsa Timur
             ['kecamatan_id' => '117401', 'id' => '1174012007', 'desa' => 'Buket Medang Ara'],
             ['kecamatan_id' => '117401', 'id' => '1174012009', 'desa' => 'Matang Seutui'],
             ['kecamatan_id' => '117401', 'id' => '1174012010', 'desa' => 'Buket Pulo'],
@@ -5322,7 +5474,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117401', 'id' => '1174012021', 'desa' => 'Sungai Lueng'],
             ['kecamatan_id' => '117401', 'id' => '1174012025', 'desa' => 'Alue Pineung Timue'],
             ['kecamatan_id' => '117401', 'id' => '1174012026', 'desa' => 'Kapa'],
-            //            Langsa Barat
+            // Langsa Barat
             ['kecamatan_id' => '117402', 'id' => '1174022005', 'desa' => 'Lhok Banie'],
             ['kecamatan_id' => '117402', 'id' => '1174022006', 'desa' => 'Pb. Teungoh'],
             ['kecamatan_id' => '117402', 'id' => '1174022007', 'desa' => 'Pb. Beuramo'],
@@ -5336,7 +5488,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117402', 'id' => '1174022020', 'desa' => 'Sungai Pauh Pusaka'],
             ['kecamatan_id' => '117402', 'id' => '1174022021', 'desa' => 'Sungai Pauh Tanjong'],
             ['kecamatan_id' => '117402', 'id' => '1174022022', 'desa' => 'Sungai Pauh Firdaus'],
-            //            Langsa Kota
+            // Langsa Kota
             ['kecamatan_id' => '117403', 'id' => '1174032001', 'desa' => 'Teungoh'],
             ['kecamatan_id' => '117403', 'id' => '1174032002', 'desa' => 'Peukan Langsa'],
             ['kecamatan_id' => '117403', 'id' => '1174032004', 'desa' => 'Jawa'],
@@ -5347,7 +5499,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117403', 'id' => '1174032010', 'desa' => 'Meutia'],
             ['kecamatan_id' => '117403', 'id' => '1174032011', 'desa' => 'Blang Seunibong'],
             ['kecamatan_id' => '117403', 'id' => '1174032013', 'desa' => 'Tualang Teungoh'],
-            //            Langsa Lama
+            // Langsa Lama
             ['kecamatan_id' => '117404', 'id' => '1174042001', 'desa' => 'Pondok Kemuning'],
             ['kecamatan_id' => '117404', 'id' => '1174042002', 'desa' => 'Seulalah'],
             ['kecamatan_id' => '117404', 'id' => '1174042003', 'desa' => 'Pondok Pabrik'],
@@ -5363,7 +5515,7 @@ class DesaAcehSeeder extends Seeder
             ['kecamatan_id' => '117404', 'id' => '1174042013', 'desa' => 'Meurandeh Dayah'],
             ['kecamatan_id' => '117404', 'id' => '1174042014', 'desa' => 'Meurandeh Aceh'],
             ['kecamatan_id' => '117404', 'id' => '1174042015', 'desa' => 'Batee Puteh'],
-            //            Langsa Baro
+            // Langsa Baro
             ['kecamatan_id' => '117405', 'id' => '1174052001', 'desa' => 'Timbang Langsa'],
             ['kecamatan_id' => '117405', 'id' => '1174052002', 'desa' => 'Alue Dua'],
             ['kecamatan_id' => '117405', 'id' => '1174052003', 'desa' => 'Birem Puntong'],
