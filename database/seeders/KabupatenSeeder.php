@@ -16,7 +16,7 @@ class KabupatenSeeder extends Seeder
     public function run()
     {
         DB::table('kabupatens')->insert([
-//            Aceh
+            // Aceh
             ['provinsi_id' => '11', 'id' => '1101', 'kabupaten' => 'Kab. Aceh Selatan'],
             ['provinsi_id' => '11', 'id' => '1102', 'kabupaten' => 'Kab. Aceh Tenggara'],
             ['provinsi_id' => '11', 'id' => '1103', 'kabupaten' => 'Kab. Aceh Timur'],
@@ -40,7 +40,41 @@ class KabupatenSeeder extends Seeder
             ['provinsi_id' => '11', 'id' => '1174', 'kabupaten' => 'Kota Langsa'],
             ['provinsi_id' => '11', 'id' => '1173', 'kabupaten' => 'Kota Lhokseumawe'],
             ['provinsi_id' => '11', 'id' => '1175', 'kabupaten' => 'Kota Subulussalam'],
+            // Sumatera Utara
+            ['provinsi_id' => '12', 'id' => '1201', 'kabupaten' => 'Kab. Tapanuli Tengah'],
+            ['provinsi_id' => '12', 'id' => '1202', 'kabupaten' => 'Kab. Tapanuli Utara'],
+            ['provinsi_id' => '12', 'id' => '1203', 'kabupaten' => 'Kab. Tapanuli Selatan'],
+            ['provinsi_id' => '12', 'id' => '1204', 'kabupaten' => 'Kab. Nias'],
+            ['provinsi_id' => '12', 'id' => '1205', 'kabupaten' => 'Kab. Langkat'],
+            ['provinsi_id' => '12', 'id' => '1206', 'kabupaten' => 'Kab. Karo'],
+            ['provinsi_id' => '12', 'id' => '1207', 'kabupaten' => 'Kab. Deli Serdang'],
+            ['provinsi_id' => '12', 'id' => '1208', 'kabupaten' => 'Kab. Simalungun'],
+            ['provinsi_id' => '12', 'id' => '1209', 'kabupaten' => 'Kab. Asahan'],
+            ['provinsi_id' => '12', 'id' => '1210', 'kabupaten' => 'Kab. Labuhanbatu'],
+            ['provinsi_id' => '12', 'id' => '1211', 'kabupaten' => 'Kab. Dairi'],
+            ['provinsi_id' => '12', 'id' => '1212', 'kabupaten' => 'Kab. Toba Samosir'],
+            ['provinsi_id' => '12', 'id' => '1213', 'kabupaten' => 'Kab. Mandailing Natal'],
+            ['provinsi_id' => '12', 'id' => '1214', 'kabupaten' => 'Kab. Nias Selatan'],
+            ['provinsi_id' => '12', 'id' => '1215', 'kabupaten' => 'Kab. Pakpak Bharat'],
+            ['provinsi_id' => '12', 'id' => '1216', 'kabupaten' => 'Kab. Humbang Hasundutan'],
+            ['provinsi_id' => '12', 'id' => '1217', 'kabupaten' => 'Kab. Samosir'],
+            ['provinsi_id' => '12', 'id' => '1218', 'kabupaten' => 'Kab. Serdang Bedagai'],
+            ['provinsi_id' => '12', 'id' => '1219', 'kabupaten' => 'Kab. Batu Bara'],
+            ['provinsi_id' => '12', 'id' => '1220', 'kabupaten' => 'Kab. Padang Lawas Utara'],
+            ['provinsi_id' => '12', 'id' => '1221', 'kabupaten' => 'Kab. Padang Lawas'],
+            ['provinsi_id' => '12', 'id' => '1222', 'kabupaten' => 'Kab. Labuhanbatu Selatan'],
+            ['provinsi_id' => '12', 'id' => '1223', 'kabupaten' => 'Kab. Labuhanbatu Utara'],
+            ['provinsi_id' => '12', 'id' => '1224', 'kabupaten' => 'Kab. Nias Utara'],
+            ['provinsi_id' => '12', 'id' => '1225', 'kabupaten' => 'Kab. Nias Barat'],
+            ['provinsi_id' => '12', 'id' => '1271', 'kabupaten' => 'Kota Medan'],
+            ['provinsi_id' => '12', 'id' => '1272', 'kabupaten' => 'Kota Pematangsiantar'],
+            ['provinsi_id' => '12', 'id' => '1273', 'kabupaten' => 'Kota Sibolga'],
+            ['provinsi_id' => '12', 'id' => '1274', 'kabupaten' => 'Kota Tanjung Balai'],
+            ['provinsi_id' => '12', 'id' => '1275', 'kabupaten' => 'Kota Binjai'],
+            ['provinsi_id' => '12', 'id' => '1276', 'kabupaten' => 'Kota Tebing Tinggi'],
+            ['provinsi_id' => '12', 'id' => '1277', 'kabupaten' => 'Kota Padang Sidempuan'],
+            ['provinsi_id' => '12', 'id' => '1278', 'kabupaten' => 'Kota Gunungsitoli'],
         ]);
     }
 }
-//=CONCATENATE("[pro, ", "'id' => '",E3, "', 'kabupaten' => '",D3, "'],")
+//=CONCATENATE("[kab, ", "'id' => '",E3, "', 'kabupaten' => '",D3, "'],")
