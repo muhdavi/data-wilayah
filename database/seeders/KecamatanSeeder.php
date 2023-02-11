@@ -16,7 +16,8 @@ class KecamatanSeeder extends Seeder
     public function run()
     {
         DB::table('kecamatans')->insert([
-//            Aceh Selatan
+            // Aceh
+            // Aceh Selatan
             ['kabupaten_id' => '1101', 'id' => '110101', 'kecamatan' => 'Bakongan'],
             ['kabupaten_id' => '1101', 'id' => '110102', 'kecamatan' => 'Kluet Utara'],
             ['kabupaten_id' => '1101', 'id' => '110103', 'kecamatan' => 'Kluet Selatan'],
@@ -35,7 +36,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1101', 'id' => '110116', 'kecamatan' => 'Trumon Timur'],
             ['kabupaten_id' => '1101', 'id' => '110117', 'kecamatan' => 'Kota Bahagia'],
             ['kabupaten_id' => '1101', 'id' => '110118', 'kecamatan' => 'Trumon Tengah'],
-//            Aceh Tenggara
+            // Aceh Tenggara
             ['kabupaten_id' => '1102', 'id' => '110201', 'kecamatan' => 'Lawe Alas'],
             ['kabupaten_id' => '1102', 'id' => '110202', 'kecamatan' => 'Lawe Sigala-gala'],
             ['kabupaten_id' => '1102', 'id' => '110203', 'kecamatan' => 'Bambel'],
@@ -52,7 +53,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1102', 'id' => '110214', 'kecamatan' => 'Lawe Sumur'],
             ['kabupaten_id' => '1102', 'id' => '110215', 'kecamatan' => 'Tanoh Alas'],
             ['kabupaten_id' => '1102', 'id' => '110216', 'kecamatan' => 'Leuser'],
-//            Aceh Timur
+            // Aceh Timur
             ['kabupaten_id' => '1103', 'id' => '110301', 'kecamatan' => 'Darul Aman'],
             ['kabupaten_id' => '1103', 'id' => '110302', 'kecamatan' => 'Julok'],
             ['kabupaten_id' => '1103', 'id' => '110303', 'kecamatan' => 'Idi Rayeuk'],
@@ -77,7 +78,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1103', 'id' => '110322', 'kecamatan' => 'Darul Falah'],
             ['kabupaten_id' => '1103', 'id' => '110323', 'kecamatan' => 'Idi Timur'],
             ['kabupaten_id' => '1103', 'id' => '110324', 'kecamatan' => 'Peunaron'],
-//            Aceh Tengah
+            // Aceh Tengah
             ['kabupaten_id' => '1104', 'id' => '110401', 'kecamatan' => 'Linge'],
             ['kabupaten_id' => '1104', 'id' => '110402', 'kecamatan' => 'Silih Nara'],
             ['kabupaten_id' => '1104', 'id' => '110403', 'kecamatan' => 'Bebesen'],
@@ -92,7 +93,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1104', 'id' => '110419', 'kecamatan' => 'Jagong Jeget'],
             ['kabupaten_id' => '1104', 'id' => '110420', 'kecamatan' => 'Bies'],
             ['kabupaten_id' => '1104', 'id' => '110421', 'kecamatan' => 'Rusip Antara'],
-//            Aceh Barat
+            // Aceh Barat
             ['kabupaten_id' => '1105', 'id' => '110501', 'kecamatan' => 'Johan Pahwalan'],
             ['kabupaten_id' => '1105', 'id' => '110502', 'kecamatan' => 'Kaway XVI'],
             ['kabupaten_id' => '1105', 'id' => '110503', 'kecamatan' => 'Sungai Mas'],
@@ -105,7 +106,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1105', 'id' => '110510', 'kecamatan' => 'Woyla Barat'],
             ['kabupaten_id' => '1105', 'id' => '110511', 'kecamatan' => 'Woyla Timur'],
             ['kabupaten_id' => '1105', 'id' => '110512', 'kecamatan' => 'Panton Reu'],
-//            Aceh Besar
+            // Aceh Besar
             ['kabupaten_id' => '1106', 'id' => '110601', 'kecamatan' => 'Lhoong'],
             ['kabupaten_id' => '1106', 'id' => '110602', 'kecamatan' => 'Lhoknga'],
             ['kabupaten_id' => '1106', 'id' => '110603', 'kecamatan' => 'Indrapuri'],
@@ -129,7 +130,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1106', 'id' => '110621', 'kecamatan' => 'Krueng Barona Jaya'],
             ['kabupaten_id' => '1106', 'id' => '110622', 'kecamatan' => 'Leupung'],
             ['kabupaten_id' => '1106', 'id' => '110623', 'kecamatan' => 'Blang Bintang'],
-            //            Pidie
+            // Pidie
             ['kabupaten_id' => '1107', 'id' => '110703', 'kecamatan' => 'Batee'],
             ['kabupaten_id' => '1107', 'id' => '110704', 'kecamatan' => 'Delima'],
             ['kabupaten_id' => '1107', 'id' => '110705', 'kecamatan' => 'Geumpang'],
@@ -153,7 +154,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1107', 'id' => '110727', 'kecamatan' => 'Mane'],
             ['kabupaten_id' => '1107', 'id' => '110729', 'kecamatan' => 'Glumpang Baro'],
             ['kabupaten_id' => '1107', 'id' => '110731', 'kecamatan' => 'Titeue'],
-//            Aceh Utara
+            // Aceh Utara
             ['kabupaten_id' => '1108', 'id' => '110801', 'kecamatan' => 'Baktiya'],
             ['kabupaten_id' => '1108', 'id' => '110802', 'kecamatan' => 'Dewantara'],
             ['kabupaten_id' => '1108', 'id' => '110803', 'kecamatan' => 'Kuta Makmur'],
@@ -181,7 +182,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1108', 'id' => '110825', 'kecamatan' => 'Geuredong Pase'],
             ['kabupaten_id' => '1108', 'id' => '110826', 'kecamatan' => 'Banda Baro'],
             ['kabupaten_id' => '1108', 'id' => '110827', 'kecamatan' => 'Nisam Antara'],
-//            Simeulue
+            // Simeulue
             ['kabupaten_id' => '1109', 'id' => '110901', 'kecamatan' => 'Simeulue Tengah'],
             ['kabupaten_id' => '1109', 'id' => '110902', 'kecamatan' => 'Salang'],
             ['kabupaten_id' => '1109', 'id' => '110903', 'kecamatan' => 'Teupah Barat'],
@@ -192,7 +193,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1109', 'id' => '110908', 'kecamatan' => 'Alapan'],
             ['kabupaten_id' => '1109', 'id' => '110909', 'kecamatan' => 'Teupah Tengah'],
             ['kabupaten_id' => '1109', 'id' => '110910', 'kecamatan' => 'Simeulue Cut'],
-//            Aceh Singkil
+            // Aceh Singkil
             ['kabupaten_id' => '1110', 'id' => '111001', 'kecamatan' => 'Pulau Banyak'],
             ['kabupaten_id' => '1110', 'id' => '111002', 'kecamatan' => 'Simpang Kanan'],
             ['kabupaten_id' => '1110', 'id' => '111004', 'kecamatan' => 'Singkil'],
@@ -204,7 +205,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1110', 'id' => '111013', 'kecamatan' => 'Singkohor'],
             ['kabupaten_id' => '1110', 'id' => '111014', 'kecamatan' => 'Kuala Baru'],
             ['kabupaten_id' => '1110', 'id' => '111016', 'kecamatan' => 'Pulau Banyak Barat'],
-//            Bireuen
+            // Bireuen
             ['kabupaten_id' => '1111', 'id' => '111101', 'kecamatan' => 'Samalanga'],
             ['kabupaten_id' => '1111', 'id' => '111102', 'kecamatan' => 'Jeunieb'],
             ['kabupaten_id' => '1111', 'id' => '111103', 'kecamatan' => 'Peudada'],
@@ -222,7 +223,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1111', 'id' => '111115', 'kecamatan' => 'Peusangan Siblah'],
             ['kabupaten_id' => '1111', 'id' => '111116', 'kecamatan' => 'Peusangan Selatan'],
             ['kabupaten_id' => '1111', 'id' => '111117', 'kecamatan' => 'Kuta Blang'],
-//            Aceh Barat Daya
+            // Aceh Barat Daya
             ['kabupaten_id' => '1112', 'id' => '111201', 'kecamatan' => 'Blang Pidie'],
             ['kabupaten_id' => '1112', 'id' => '111202', 'kecamatan' => 'Tangan-tangan'],
             ['kabupaten_id' => '1112', 'id' => '111203', 'kecamatan' => 'Manggeng'],
@@ -232,7 +233,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1112', 'id' => '111207', 'kecamatan' => 'Setia'],
             ['kabupaten_id' => '1112', 'id' => '111208', 'kecamatan' => 'Jeumpa'],
             ['kabupaten_id' => '1112', 'id' => '111209', 'kecamatan' => 'Lembah Sabil'],
-//            Gayo Lues
+            // Gayo Lues
             ['kabupaten_id' => '1113', 'id' => '111301', 'kecamatan' => 'Blangkejeren'],
             ['kabupaten_id' => '1113', 'id' => '111302', 'kecamatan' => 'Kutapanjang'],
             ['kabupaten_id' => '1113', 'id' => '111303', 'kecamatan' => 'Rikit Gaib'],
@@ -243,7 +244,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1113', 'id' => '111309', 'kecamatan' => 'Blangjerango'],
             ['kabupaten_id' => '1113', 'id' => '111310', 'kecamatan' => 'Teripe Jaya'],
             ['kabupaten_id' => '1113', 'id' => '111311', 'kecamatan' => 'Pantan Cuaca'],
-//            Aceh Jaya
+            // Aceh Jaya
             ['kabupaten_id' => '1114', 'id' => '111401', 'kecamatan' => 'Teunom'],
             ['kabupaten_id' => '1114', 'id' => '111402', 'kecamatan' => 'Krueng Sabee'],
             ['kabupaten_id' => '1114', 'id' => '111403', 'kecamatan' => 'Setia Bhakti'],
@@ -253,7 +254,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1114', 'id' => '111407', 'kecamatan' => 'Indra Jaya'],
             ['kabupaten_id' => '1114', 'id' => '111408', 'kecamatan' => 'Darul Hikmah'],
             ['kabupaten_id' => '1114', 'id' => '111409', 'kecamatan' => 'Pasie Raya'],
-//            Nagan Raya
+            // Nagan Raya
             ['kabupaten_id' => '1115', 'id' => '111501', 'kecamatan' => 'Kuala'],
             ['kabupaten_id' => '1115', 'id' => '111502', 'kecamatan' => 'Seunagan'],
             ['kabupaten_id' => '1115', 'id' => '111503', 'kecamatan' => 'Seunagan Timur'],
@@ -264,7 +265,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1115', 'id' => '111508', 'kecamatan' => 'Tadu Raya'],
             ['kabupaten_id' => '1115', 'id' => '111509', 'kecamatan' => 'Tripa Makmur'],
             ['kabupaten_id' => '1115', 'id' => '111510', 'kecamatan' => 'Beutong Ateuh'],
-//            Aceh Tamiang
+            // Aceh Tamiang
             ['kabupaten_id' => '1116', 'id' => '111601', 'kecamatan' => 'Manyak Payed'],
             ['kabupaten_id' => '1116', 'id' => '111602', 'kecamatan' => 'Bendahara'],
             ['kabupaten_id' => '1116', 'id' => '111603', 'kecamatan' => 'Karang Baru'],
@@ -277,7 +278,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1116', 'id' => '111610', 'kecamatan' => 'Bandar Pusaka'],
             ['kabupaten_id' => '1116', 'id' => '111611', 'kecamatan' => 'Tenggulun'],
             ['kabupaten_id' => '1116', 'id' => '111612', 'kecamatan' => 'Sekerak'],
-//            Bener Meriah
+            // Bener Meriah
             ['kabupaten_id' => '1117', 'id' => '111701', 'kecamatan' => 'Pintu Rime Gayo'],
             ['kabupaten_id' => '1117', 'id' => '111702', 'kecamatan' => 'Permata'],
             ['kabupaten_id' => '1117', 'id' => '111703', 'kecamatan' => 'Syiah Utama'],
@@ -288,7 +289,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1117', 'id' => '111708', 'kecamatan' => 'Bener Kelipah'],
             ['kabupaten_id' => '1117', 'id' => '111709', 'kecamatan' => 'Mesidah'],
             ['kabupaten_id' => '1117', 'id' => '111710', 'kecamatan' => 'Gajah Putih'],
-//            Pidie Jaya
+            // Pidie Jaya
             ['kabupaten_id' => '1118', 'id' => '111801', 'kecamatan' => 'Meureudu'],
             ['kabupaten_id' => '1118', 'id' => '111802', 'kecamatan' => 'Ulim'],
             ['kabupaten_id' => '1118', 'id' => '111803', 'kecamatan' => 'Jangka Buaya'],
@@ -297,7 +298,7 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1118', 'id' => '111806', 'kecamatan' => 'Bandar Baru'],
             ['kabupaten_id' => '1118', 'id' => '111807', 'kecamatan' => 'Panteraja'],
             ['kabupaten_id' => '1118', 'id' => '111808', 'kecamatan' => 'Trienggadeng'],
-//            Banda Aceh
+            // Banda Aceh
             ['kabupaten_id' => '1171', 'id' => '117101', 'kecamatan' => 'Baiturrahman'],
             ['kabupaten_id' => '1171', 'id' => '117102', 'kecamatan' => 'Kuta Alam'],
             ['kabupaten_id' => '1171', 'id' => '117103', 'kecamatan' => 'Meuraxa'],
@@ -307,21 +308,21 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1171', 'id' => '117107', 'kecamatan' => 'Banda Raya'],
             ['kabupaten_id' => '1171', 'id' => '117108', 'kecamatan' => 'Jaya Baru'],
             ['kabupaten_id' => '1171', 'id' => '117109', 'kecamatan' => 'Ulee Kareng'],
-//            Sabang
+            // Sabang
             ['kabupaten_id' => '1172', 'id' => '117201', 'kecamatan' => 'Sukakarya'],
             ['kabupaten_id' => '1172', 'id' => '117202', 'kecamatan' => 'Sukajaya'],
-//            Lhokseumawe
+            // Lhokseumawe
             ['kabupaten_id' => '1173', 'id' => '117301', 'kecamatan' => 'Muara Dua'],
             ['kabupaten_id' => '1173', 'id' => '117302', 'kecamatan' => 'Banda Sakti'],
             ['kabupaten_id' => '1173', 'id' => '117303', 'kecamatan' => 'Blang Mangat'],
             ['kabupaten_id' => '1173', 'id' => '117304', 'kecamatan' => 'Muara Satu'],
-//            Langsa
+            // Langsa
             ['kabupaten_id' => '1174', 'id' => '117401', 'kecamatan' => 'Langsa Timur'],
             ['kabupaten_id' => '1174', 'id' => '117402', 'kecamatan' => 'Langsa Barat'],
             ['kabupaten_id' => '1174', 'id' => '117403', 'kecamatan' => 'Langsa Kota'],
             ['kabupaten_id' => '1174', 'id' => '117404', 'kecamatan' => 'Langsa Lama'],
             ['kabupaten_id' => '1174', 'id' => '117405', 'kecamatan' => 'Langsa Baro'],
-//            Subulussalam
+            // Subulussalam
             ['kabupaten_id' => '1175', 'id' => '117501', 'kecamatan' => 'Simpang Kiri'],
             ['kabupaten_id' => '1175', 'id' => '117502', 'kecamatan' => 'Penanggalan'],
             ['kabupaten_id' => '1175', 'id' => '117503', 'kecamatan' => 'Rundeng'],
