@@ -328,6 +328,141 @@ class KecamatanSeeder extends Seeder
             ['kabupaten_id' => '1175', 'id' => '117503', 'kecamatan' => 'Rundeng'],
             ['kabupaten_id' => '1175', 'id' => '117504', 'kecamatan' => 'Sultan Daulat'],
             ['kabupaten_id' => '1175', 'id' => '117505', 'kecamatan' => 'Longkib'],
+            // Sumatera Utara
+            // Kab. Tapanuli Tengah
+            ['kabupaten_id' => '1201', 'id' => '120104', 'kecamatan' => 'Pinangsori'],
+            ['kabupaten_id' => '1201', 'id' => '120115', 'kecamatan' => 'Badiri'],
+            ['kabupaten_id' => '1201', 'id' => '120108', 'kecamatan' => 'Sibabangun'],
+            ['kabupaten_id' => '1201', 'id' => '120119', 'kecamatan' => 'Lumut'],
+            ['kabupaten_id' => '1201', 'id' => '120118', 'kecamatan' => 'Suka Bangun'],
+            ['kabupaten_id' => '1201', 'id' => '120103', 'kecamatan' => 'Pandan'],
+            ['kabupaten_id' => '1201', 'id' => '120114', 'kecamatan' => 'Tukka'],
+            ['kabupaten_id' => '1201', 'id' => '120120', 'kecamatan' => 'Sarudik'],
+            ['kabupaten_id' => '1201', 'id' => '120107', 'kecamatan' => 'Tapian Nauli'],
+            ['kabupaten_id' => '1201', 'id' => '120113', 'kecamatan' => 'Sitahuis'],
+            ['kabupaten_id' => '1201', 'id' => '120106', 'kecamatan' => 'Kolang'],
+            ['kabupaten_id' => '1201', 'id' => '120102', 'kecamatan' => 'Sorkam'],
+            ['kabupaten_id' => '1201', 'id' => '120110', 'kecamatan' => 'Sorkam Barat'],
+            ['kabupaten_id' => '1201', 'id' => '120116', 'kecamatan' => 'Pasaribu Tobing'],
+            ['kabupaten_id' => '1201', 'id' => '120101', 'kecamatan' => 'Barus'],
+            ['kabupaten_id' => '1201', 'id' => '120109', 'kecamatan' => 'Sosorgadong'],
+            ['kabupaten_id' => '1201', 'id' => '120112', 'kecamatan' => 'Andam Dewi'],
+            ['kabupaten_id' => '1201', 'id' => '120117', 'kecamatan' => 'Barus Utara'],
+            ['kabupaten_id' => '1201', 'id' => '120105', 'kecamatan' => 'Manduamas'],
+            ['kabupaten_id' => '1201', 'id' => '120111', 'kecamatan' => 'Sirandorung'],
+            // Kab. Tapanuli Utara
+            ['kabupaten_id' => '1202', 'id' => '120211', 'kecamatan' => 'Parmonangan'],
+            ['kabupaten_id' => '1202', 'id' => '120203', 'kecamatan' => 'Adian Koting'],
+            ['kabupaten_id' => '1202', 'id' => '120204', 'kecamatan' => 'Sipoholon'],
+            ['kabupaten_id' => '1202', 'id' => '120201', 'kecamatan' => 'Tarutung'],
+            ['kabupaten_id' => '1202', 'id' => '120202', 'kecamatan' => 'Siatas Barita'],
+            ['kabupaten_id' => '1202', 'id' => '120205', 'kecamatan' => 'Pahae Julu'],
+            ['kabupaten_id' => '1202', 'id' => '120206', 'kecamatan' => 'Pahae Jae'],
+            ['kabupaten_id' => '1202', 'id' => '120208', 'kecamatan' => 'Purba Tua'],
+            ['kabupaten_id' => '1202', 'id' => '120207', 'kecamatan' => 'Simangumban'],
+            ['kabupaten_id' => '1202', 'id' => '120213', 'kecamatan' => 'Pangaribuan'],
+            ['kabupaten_id' => '1202', 'id' => '120214', 'kecamatan' => 'Garoga'],
+            ['kabupaten_id' => '1202', 'id' => '120212', 'kecamatan' => 'Sipahutar'],
+            ['kabupaten_id' => '1202', 'id' => '120209', 'kecamatan' => 'Siborong-borong'],
+            ['kabupaten_id' => '1202', 'id' => '120210', 'kecamatan' => 'Pagaran'],
+            ['kabupaten_id' => '1202', 'id' => '120215', 'kecamatan' => 'Muara'],
+            // Kab. Tapanuli Selatan
+            ['kabupaten_id' => '1203', 'id' => '120307', 'kecamatan' => 'Batang Angkola'],
+            ['kabupaten_id' => '1203', 'id' => '120321', 'kecamatan' => 'Sayur Matinggi'],
+            ['kabupaten_id' => '1203', 'id' => '120330', 'kecamatan' => 'Tano Tombangan'],
+            ['kabupaten_id' => '1203', 'id' => '120332', 'kecamatan' => 'Angkola Muara Tais'],
+            ['kabupaten_id' => '1203', 'id' => '120303', 'kecamatan' => 'Angkola Timur'],
+            ['kabupaten_id' => '1203', 'id' => '120306', 'kecamatan' => 'Angkola Selatan'],
+            ['kabupaten_id' => '1203', 'id' => '120301', 'kecamatan' => 'Angkola Barat'],
+            ['kabupaten_id' => '1203', 'id' => '120331', 'kecamatan' => 'Angkola Sangkunur'],
+            ['kabupaten_id' => '1203', 'id' => '120302', 'kecamatan' => 'Batang Toru'],
+            ['kabupaten_id' => '1203', 'id' => '120320', 'kecamatan' => 'Marancar'],
+            ['kabupaten_id' => '1203', 'id' => '120329', 'kecamatan' => 'Muara Batang Toru'],
+            ['kabupaten_id' => '1203', 'id' => '120304', 'kecamatan' => 'Sipirok'],
+            ['kabupaten_id' => '1203', 'id' => '120314', 'kecamatan' => 'Arse'],
+            ['kabupaten_id' => '1203', 'id' => '120305', 'kecamatan' => 'Saipar Dolok Hole'],
+            ['kabupaten_id' => '1203', 'id' => '120322', 'kecamatan' => 'Aek Bilah'],
+            // Kab. Nias
+            ['kabupaten_id' => '1204', 'id' => '120410', 'kecamatan' => 'Idanogawo'],
+            ['kabupaten_id' => '1204', 'id' => '120411', 'kecamatan' => 'Bawolato'],
+            ['kabupaten_id' => '1204', 'id' => '120427', 'kecamatan' => 'Ulugawo'],
+            ['kabupaten_id' => '1204', 'id' => '120406', 'kecamatan' => 'Gido'],
+            ['kabupaten_id' => '1204', 'id' => '120435', 'kecamatan' => 'Sogae\'adu'],
+            ['kabupaten_id' => '1204', 'id' => '120428', 'kecamatan' => 'Ma\'u'],
+            ['kabupaten_id' => '1204', 'id' => '120429', 'kecamatan' => 'Somolo-molo'],
+            ['kabupaten_id' => '1204', 'id' => '120405', 'kecamatan' => 'Hiliduho'],
+            ['kabupaten_id' => '1204', 'id' => '120420', 'kecamatan' => 'Hiliserangkai'],
+            ['kabupaten_id' => '1204', 'id' => '120421', 'kecamatan' => 'Botomuzoi'],
+            // Kab. Langkat
+            ['kabupaten_id' => '1205', 'id' => '120501', 'kecamatan' => 'Bahorok'],
+            ['kabupaten_id' => '1205', 'id' => '120521', 'kecamatan' => 'Sirapit'],
+            ['kabupaten_id' => '1205', 'id' => '120502', 'kecamatan' => 'Salapian'],
+            ['kabupaten_id' => '1205', 'id' => '120522', 'kecamatan' => 'Kutambaru'],
+            ['kabupaten_id' => '1205', 'id' => '120504', 'kecamatan' => 'Sei Bingai'],
+            ['kabupaten_id' => '1205', 'id' => '120503', 'kecamatan' => 'Kuala'],
+            ['kabupaten_id' => '1205', 'id' => '120506', 'kecamatan' => 'Selesai'],
+            ['kabupaten_id' => '1205', 'id' => '120505', 'kecamatan' => 'Binjai'],
+            ['kabupaten_id' => '1205', 'id' => '120507', 'kecamatan' => 'Stabat'],
+            ['kabupaten_id' => '1205', 'id' => '120508', 'kecamatan' => 'Wampu'],
+            ['kabupaten_id' => '1205', 'id' => '120519', 'kecamatan' => 'Batang Serangan'],
+            ['kabupaten_id' => '1205', 'id' => '120520', 'kecamatan' => 'Sawit Seberang'],
+            ['kabupaten_id' => '1205', 'id' => '120512', 'kecamatan' => 'Padang Tualang'],
+            ['kabupaten_id' => '1205', 'id' => '120510', 'kecamatan' => 'Hinai'],
+            ['kabupaten_id' => '1205', 'id' => '120509', 'kecamatan' => 'Secanggang'],
+            ['kabupaten_id' => '1205', 'id' => '120511', 'kecamatan' => 'Tanjung Pura'],
+            ['kabupaten_id' => '1205', 'id' => '120513', 'kecamatan' => 'Gebang'],
+            ['kabupaten_id' => '1205', 'id' => '120514', 'kecamatan' => 'Babalan'],
+            ['kabupaten_id' => '1205', 'id' => '120517', 'kecamatan' => 'Sei Lepan'],
+            ['kabupaten_id' => '1205', 'id' => '120518', 'kecamatan' => 'Berandan Barat'],
+            ['kabupaten_id' => '1205', 'id' => '120516', 'kecamatan' => 'Besitang'],
+            ['kabupaten_id' => '1205', 'id' => '120515', 'kecamatan' => 'Pangkalan Susu'],
+            ['kabupaten_id' => '1205', 'id' => '120523', 'kecamatan' => 'Pematang Jaya'],
+            // Kab. Karo
+            ['kabupaten_id' => '1206', 'id' => '120610', 'kecamatan' => 'Mardingding'],
+            ['kabupaten_id' => '1206', 'id' => '120609', 'kecamatan' => 'Laubaleng'],
+            ['kabupaten_id' => '1206', 'id' => '120608', 'kecamatan' => 'Tigabinanga'],
+            ['kabupaten_id' => '1206', 'id' => '120607', 'kecamatan' => 'Juhar'],
+            ['kabupaten_id' => '1206', 'id' => '120606', 'kecamatan' => 'Munte'],
+            ['kabupaten_id' => '1206', 'id' => '120613', 'kecamatan' => 'Kutabuluh'],
+            ['kabupaten_id' => '1206', 'id' => '120611', 'kecamatan' => 'Payung'],
+            ['kabupaten_id' => '1206', 'id' => '120617', 'kecamatan' => 'Tiganderket'],
+            ['kabupaten_id' => '1206', 'id' => '120612', 'kecamatan' => 'Simpang Empat'],
+            ['kabupaten_id' => '1206', 'id' => '120616', 'kecamatan' => 'Naman Teran'],
+            ['kabupaten_id' => '1206', 'id' => '120615', 'kecamatan' => 'Merdeka'],
+            ['kabupaten_id' => '1206', 'id' => '120601', 'kecamatan' => 'Kabanjahe'],
+            ['kabupaten_id' => '1206', 'id' => '120602', 'kecamatan' => 'Berastagi'],
+            ['kabupaten_id' => '1206', 'id' => '120604', 'kecamatan' => 'Tigapanah'],
+            ['kabupaten_id' => '1206', 'id' => '120614', 'kecamatan' => 'Dolat Rayat'],
+            ['kabupaten_id' => '1206', 'id' => '120605', 'kecamatan' => 'Merek'],
+            ['kabupaten_id' => '1206', 'id' => '120603', 'kecamatan' => 'Barusjahe'],
+            // Kab. Deli Serdang
+            //=CONCATENATE("[kec, ", "'id' => '",E3, "', 'kecamatan' => '",D3, "'],")
+            // Kab. Simalungun
+            // Kab. Asahan
+            // Kab. Labuhanbatu
+            // Kab. Dairi
+            // Kab. Toba Samosir
+            // Kab. Mandailing Natal
+            // Kab. Nias Selatan
+            // Kab. Pakpak Bharat
+            // Kab. Humbang Hasundutan
+            // Kab. Samosir
+            // Kab. Serdang Bedagai
+            // Kab. Batu Bara
+            // Kab. Padang Lawas Utara
+            // Kab. Padang Lawas
+            // Kab. Labuhanbatu Selatan
+            // Kab. Labuhanbatu Utara
+            // Kab. Nias Utara
+            // Kab. Nias Barat
+            // Kota Medan
+            // Kota Pematangsiantar
+            // Kota Sibolga
+            // Kota Tanjung Balai
+            // Kota Binjai
+            // Kota Tebing Tinggi
+            // Kota Padang Sidempuan
+            // Kota Gunungsitoli
         ]);
     }
 }
