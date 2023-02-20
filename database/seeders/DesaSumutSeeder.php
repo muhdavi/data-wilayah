@@ -216,11 +216,43 @@ class DesaSumutSeeder extends Seeder
             ['kabupaten_id' => '120115', 'id' => '1201152007', 'desa' => 'Lubuk Ampolu'],
             ['kabupaten_id' => '120115', 'id' => '1201152008', 'desa' => 'Pagaran Honas'],
             // Pasaribu Tobing
+            [kec, 'id' => '1201162001', 'desa' => 'Suga Suga Hutagodang'],
+            [kec, 'id' => '1201162002', 'desa' => 'Suka Maju'],
+            [kec, 'id' => '1201162005', 'desa' => 'Aek Nadua'],
+            [kec, 'id' => '1201162004', 'desa' => 'Pasaribu Tobing'],
+            [kec, 'id' => '1201162003', 'desa' => 'Makmur'],
+            [kec, 'id' => '1201162006', 'desa' => 'Simargarap'],
+            [kec, 'id' => '1201162007', 'desa' => 'Sidaling'],
+            [kec, 'id' => '1201162008', 'desa' => 'Sipakpahi'],
+            [kec, 'id' => '1201162009', 'desa' => 'Po Simargarap'],
             // Barus Utara
+            [kec, 'id' => '1201172005', 'desa' => 'Pananggahan'],
+            [kec, 'id' => '1201172004', 'desa' => 'Purba Tua'],
+            [kec, 'id' => '1201172001', 'desa' => 'Hutaginjang'],
+            [kec, 'id' => '1201172002', 'desa' => 'Sihorbo'],
+            [kec, 'id' => '1201172003', 'desa' => 'Parik Sinomba'],
+            [kec, 'id' => '1201172006', 'desa' => 'Siharbangan'],
             // Suka Bangun
+            [kec, 'id' => '1201182002', 'desa' => 'Tebing Tinggi'],
+            [kec, 'id' => '1201182003', 'desa' => 'Pulo Pakkat Ii'],
+            [kec, 'id' => '1201182006', 'desa' => 'Sihapas'],
+            [kec, 'id' => '1201182001', 'desa' => 'Pulo Pakkat'],
+            [kec, 'id' => '1201182004', 'desa' => 'Janji Maria'],
+            [kec, 'id' => '1201182005', 'desa' => 'Sihadatuon'],
             // Lumut
+            [kec, 'id' => '1201191001', 'desa' => 'Lumut'],
+            [kec, 'id' => '1201192005', 'desa' => 'Lumut Nauli'],
+            [kec, 'id' => '1201192006', 'desa' => 'Lumut Maju'],
+            [kec, 'id' => '1201192002', 'desa' => 'Aek Gambir'],
+            [kec, 'id' => '1201192003', 'desa' => 'Masundung'],
+            [kec, 'id' => '1201192007', 'desa' => 'Sialogo'],
             // Sarudik
-            //=CONCATENATE("[kec, ", "'id' => '",E3, "', 'desa' => '",D3, "'],")
+            [kec, 'id' => '1201201001', 'desa' => 'Sibuluan Nalambok'],
+            [kec, 'id' => '1201202003', 'desa' => 'Sipan'],
+            [kec, 'id' => '1201201002', 'desa' => 'Sarudik'],
+            [kec, 'id' => '1201201005', 'desa' => 'Pondok Batu'],
+            [kec, 'id' => '1201201004', 'desa' => 'Pasir Bidang'],
         ]);
     }
 }
+//=CONCATENATE("[kec, ", "'id' => '",E3, "', 'desa' => '",D3, "'],")
